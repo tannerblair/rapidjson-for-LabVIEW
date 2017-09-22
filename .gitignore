@@ -14,3 +14,11 @@
 # Metadata
 *.aliases
 *.lvlps
+lvrjs/Release/
+lvrjs/lvrjs/Release/lvrjs.tlog/CL.command.1.tlog
+lvrjs/lvrjs/Release/
+lvrjs/Debug/
+lvrjs/.vs/
+lvrjs/lvrjs/Debug/lvrjs.tlog/link.12744.delete.1.tlog
+lvrjs/lvrjs/Debug/
+lvrjs/lvrjs tester/Debug/

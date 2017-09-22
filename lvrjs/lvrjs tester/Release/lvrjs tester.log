@@ -1,0 +1,2 @@
+﻿  lvrjstester.cpp
+lvrjstester.cpp(6): fatal error C1083: Cannot open include file: 'lvrjs.h': No such file or directory

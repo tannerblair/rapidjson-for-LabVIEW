@@ -7,7 +7,6 @@
 #include "rapidjson\writer.h"
 #include "rapidjson\prettywriter.h"
 #include "rapidjson\pointer.h"
-#include <vector>
 
 using namespace rapidjson;
 using namespace std;

@@ -3,13 +3,13 @@
 
 //#include "stdafx.h"
 #include "lvrjs.h"
-#include <sstream>
 
 
 Document * jsonCreate(string json, Document * error) 
 {
+   string buffer = json;
    Document * d = new Document();
-   ParseResult ok = d->Parse(json);
+   ParseResult ok = d->Parse(buffer);
    if (!ok)
       jsonFormatParseError(ok, error);
 
@@ -206,19 +206,19 @@ const string jsonToString(Document * d, string path, bool prettyPrint, Document 
    }
    return "null";
 }
-//!!!This is the devil. I can't get it working.
+
 string jsonKeys(Document * d, string path, Document * error) 
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      char result[1024] = "";
+      string result;
       int i = 0;
-      strcat_s(result, 1024, p.Get(*d)->MemberBegin()->name.GetString());
+      result += p.Get(*d)->MemberBegin()->name.GetString();
       for (Value::ConstMemberIterator itr = p.Get(*d)->MemberBegin() + 1;
          itr != p.Get(*d)->MemberEnd(); itr++)
       {
-         strcat_s(result, 1024, ",");
-         strcat_s(result, 1024, p.Get(*d)->MemberBegin()->name.GetString());
+         
+         result += p.Get(*d)->MemberBegin()->name.GetString();
       }
       return result;
    }

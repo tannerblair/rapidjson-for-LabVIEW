@@ -37,7 +37,22 @@ const char * kPointerParseErrorStrings[]{
    "none",                     
    "A path must begin with a '/'",
    "Invalid escape",
-   "Invalid percent encoding in URI fragment"
-   "A character must percent encoded in URI fragment"
-   "Path does not exist"
+   "Invalid percent encoding in URI fragment",
+   "A character must percent encoded in URI fragment",
+   "Path does not exist",
+   "Path does not reference an object",
+   "Path does not reference an array",
+   "Path does not reference an object or array"
+};
+
+enum kPointerParseErrorType {
+   NONE,
+   NO_SLASH,
+   BAD_ESCAPE,
+   BAD_PERCENT,
+   BAD_URI,
+   NOT_A_PATH,
+   NOT_AN_OBJECT,
+   NOT_AN_ARRAY,
+   NOT_A_STRUCTURE
 };

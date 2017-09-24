@@ -5,7 +5,7 @@
 #include "lvrjs.h"
 
 
-Document * jsonCreate(string json, Document * error) 
+Document * jsonCreate(char * json, Document * error) 
 {
    string buffer = json;
    Document * d = new Document();
@@ -16,7 +16,7 @@ Document * jsonCreate(string json, Document * error)
    return d;
 }
 
-int jsonQuery(Document * d, string path, Document * error)
+int jsonQuery(Document * d, char * path, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -34,79 +34,100 @@ int jsonQuery(Document * d, string path, Document * error)
    }
 
 }
-void jsonInsertBool(Document * d, string path, bool value, Document * error)
+void jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
    }
    else {
       jsonFormatPtrError(p, error);
    }
-
 }
-void jsonInsertI32(Document * d, string path, int32_t value, Document * error)
+void jsonInsertI32(Document * d, char * path, int32_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertU32(Document * d, string path, uint32_t value, Document * error)
+void jsonInsertU32(Document * d, char * path, uint32_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertI64(Document * d, string path, int64_t value, Document * error)
+void jsonInsertI64(Document * d, char * path, int64_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertU64(Document * d, string path, uint64_t value, Document * error)
+void jsonInsertU64(Document * d, char * path, uint64_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertDbl(Document * d, string path, double value, Document * error)
+void jsonInsertDbl(Document * d, char * path, double value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertFloat(Document * d, string path, float value, Document * error)
+void jsonInsertFloat(Document * d, char * path, float value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-void jsonInsertString(Document * d, string path, string value, Document * error)
+void jsonInsertString(Document * d, char * path, char * value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
+   if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
-   else
+   }
+   else {
       jsonFormatPtrError(p, error);
+   }
 }
-
-void jsonInsertValue(Document * d, string path, Value * value, Document * error)
+void jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error)
 {
 
    Pointer p = Pointer(path);
    if (p.IsValid()) {
+      replaced = p.Get(*d) != nullptr;
       Document newdoc;
       newdoc.CopyFrom(*value, d->GetAllocator());
       p.Set(*d, newdoc);
@@ -115,79 +136,95 @@ void jsonInsertValue(Document * d, string path, Value * value, Document * error)
       jsonFormatPtrError(p, error);
 }
 
-bool jsonParseBool(Document * d, string path, bool value, Document * error)
+void jsonParseBool(Document * d, char * path, bool & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetBool();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetBool();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-int32_t jsonParseI32(Document * d, string path, int32_t value, Document * error)
+void jsonParseI32(Document * d, char * path, int32_t & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetInt();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetInt();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-uint32_t jsonParseU32(Document * d, string path, uint32_t value, Document * error)
+void jsonParseU32(Document * d, char * path, uint32_t & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetUint();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetUint();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-int64_t jsonParseI64(Document * d, string path, int64_t value, Document * error)
+void jsonParseI64(Document * d, char * path, int64_t & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetInt64();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetInt64();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-uint64_t jsonParseU64(Document * d, string path, uint64_t value, Document * error)
+void jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetUint64();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetUint64();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-double jsonParseDbl(Document * d, string path, double value, Document * error)
+void jsonParseDbl(Document * d, char * path, double & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetDouble();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetDouble();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-float jsonParseFloat(Document * d, string path, float value, Document * error)
+void jsonParseFloat(Document * d, char * path, float & value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetFloat();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = p.GetWithDefault(*d, value).GetFloat();
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-const string jsonParseString(Document * d, string path, string value, Document * error)
+void jsonParseString(Document * d, char * path, char * value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
-   if (p.IsValid())
-      return p.GetWithDefault(*d, value).GetString();
-   jsonFormatPtrError(p, error);
-   return value;
+   if (p.IsValid()) {
+      found = p.Get(*d) != nullptr;
+      value = _strdup(p.GetWithDefault(*d, value).GetString());
+   }
+   else {
+      jsonFormatPtrError(p, error);
+   }
 }
-
-const string jsonToString(Document * d, string path, bool prettyPrint, Document * error)
+char * jsonToString(Document * d, char * path, bool prettyPrint, Document * error)
 {
    if (jsonQuery(d, path, error))
    {
@@ -202,33 +239,69 @@ const string jsonToString(Document * d, string path, bool prettyPrint, Document 
          PrettyWriter<StringBuffer> writer(buffer);
          v->Accept(writer);
       }
-      return buffer.GetString();
+      char * result = _strdup(buffer.GetString());
+      result[buffer.GetLength()] = '\0';
+      return result;
    }
    return "null";
 }
 
-string jsonKeys(Document * d, string path, Document * error) 
+char * jsonKey(Document * d, char * path, int index, Document * error) 
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      string result;
-      int i = 0;
-      result += p.Get(*d)->MemberBegin()->name.GetString();
-      for (Value::ConstMemberIterator itr = p.Get(*d)->MemberBegin() + 1;
-         itr != p.Get(*d)->MemberEnd(); itr++)
+      if (p.Get(*d) != nullptr)
       {
-         
-         result += p.Get(*d)->MemberBegin()->name.GetString();
+         if (p.Get(*d)->IsObject())
+         {
+            string result;
+            return _strdup((p.Get(*d)->MemberBegin() + index)->name.GetString());
+         }
+         else {
+            jsonFormatPtrError(6, error);
+            return "";
+         }
       }
-      return result;
+      else {
+         jsonFormatPtrError(5, error);
+         return "";
+      }
    }
    else {
       jsonFormatPtrError(p, error);
+      return "";
    }
-   return "";
 }
 
-Document * jsonClone(Document * d, string path, Document * error)
+DLLEXPORT Value * jsonStructureInfo(Document *d, char * path, int & count, Document * error)
+{
+   Pointer p = Pointer(path);
+   if (p.IsValid()) {
+      if (p.Get(*d) != nullptr)
+      {
+         if (p.Get(*d)->IsObject())
+         {
+            count = p.Get(*d)->MemberCount();
+            return p.Get(*d);
+         }
+         else if (p.Get(*d)->IsArray()) {
+            count = p.Get(*d)->Size();
+            return p.Get(*d);
+         }
+         else {
+            jsonFormatPtrError(NOT_A_STRUCTURE, error);
+         }
+      }
+      else {
+         jsonFormatPtrError(NOT_A_PATH, error);
+      }
+      jsonFormatPtrError(p, error);
+   }
+   count = -1;
+   return nullptr;
+}
+
+Document * jsonClone(Document * d, char * path, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -249,7 +322,7 @@ Document * jsonClone(Document * d, string path, Document * error)
    }
 }
 
-int jsonDeleteKey(Document * d, string path, Document * error)
+int jsonDeleteKey(Document * d, char * path, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid())
@@ -263,7 +336,7 @@ void jsonClose(Document * d, Document * error)
    delete d;
 }
 
-void jsonSetErrorInfo(Document * error, bool status, int32_t code, string source)
+void jsonSetErrorInfo(Document * error, bool status, int32_t code, const char * source)
 {
    Pointer("/status").Set(*error, status, error->GetAllocator());
    Pointer("/code").Set(*error, code, error->GetAllocator());
@@ -282,7 +355,7 @@ void jsonFormatPtrError(Pointer ptr, Document * error)
    err += "Offset: ";
    err += ptr.GetParseErrorOffset();
 
-   jsonSetErrorInfo(error, true, 1000 + ptr.GetParseErrorCode(), err);
+   jsonSetErrorInfo(error, true, 1000 + ptr.GetParseErrorCode(), err.c_str());
 }
 
 void jsonFormatPtrError(int code, Document * error)
@@ -291,12 +364,12 @@ void jsonFormatPtrError(int code, Document * error)
    err += "Invalid Path Error\n";
    err += kPointerParseErrorStrings[code];
 
-   jsonSetErrorInfo(error, true, 1000 + code, err);
+   jsonSetErrorInfo(error, true, 1000 + code, err.c_str());
 }
 
 void jsonFormatParseError(ParseResult p, Document * error) {
   
-   string err = new char[256];
+   string err;
 
    err += "Parse Error\n";
    err += kParseErrorStrings[p.Code()];
@@ -304,5 +377,5 @@ void jsonFormatParseError(ParseResult p, Document * error) {
    err += "Offset: ";
    err += p.Offset();
 
-   jsonSetErrorInfo(error, true, p.Code(), err);
+   jsonSetErrorInfo(error, true, p.Code(), err.c_str());
 }

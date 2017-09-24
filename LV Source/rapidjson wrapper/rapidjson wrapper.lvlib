@@ -29,6 +29,10 @@
 		<Item Name="jsonInsertU64.vi" Type="VI" URL="../jsonInsertU64.vi"/>
 		<Item Name="jsonInsertValue.vi" Type="VI" URL="../jsonInsertValue.vi"/>
 	</Item>
+	<Item Name="Object" Type="Folder">
+		<Item Name="jsonDeleteKey.vi" Type="VI" URL="../jsonDeleteKey.vi"/>
+		<Item Name="jsonKey.vi" Type="VI" URL="../jsonKey.vi"/>
+	</Item>
 	<Item Name="Parse" Type="Folder">
 		<Item Name="jsonParseBool.vi" Type="VI" URL="../jsonParseBool.vi"/>
 		<Item Name="jsonParseDbl.vi" Type="VI" URL="../jsonParseDbl.vi"/>
@@ -39,8 +43,7 @@
 		<Item Name="jsonParseU32.vi" Type="VI" URL="../jsonParseU32.vi"/>
 		<Item Name="jsonParseU64.vi" Type="VI" URL="../jsonParseU64.vi"/>
 	</Item>
-	<Item Name="jsonDeleteKey.vi" Type="VI" URL="../jsonDeleteKey.vi"/>
-	<Item Name="jsonKeys.vi" Type="VI" URL="../jsonKeys.vi"/>
 	<Item Name="jsonQuery.vi" Type="VI" URL="../jsonQuery.vi"/>
+	<Item Name="jsonStructureInfo.vi" Type="VI" URL="../jsonStructureInfo.vi"/>
 	<Item Name="jsonType.ctl" Type="VI" URL="../jsonType.ctl"/>
 </Library>

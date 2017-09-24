@@ -8,7 +8,7 @@
 	<Property Name="NI.LVClass.CoreWirePen" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!6&amp;0%.M&gt;8.U:8)_$1I]4G&amp;N:4Z1:7Y],UZB&lt;75_$1I]4H6N27RU=TYY0#^/&gt;7V&amp;&lt;(2T0AU+0&amp;5T-DY.#DR/97VF0E:P=G6H=G^V&lt;G1A1W^M&lt;X)],UZB&lt;75_$1I]6G&amp;M0D1S.DEW0#^797Q_$1I],V5T-DY.#DR6-T)_$1I]4G&amp;N:4Z#97.L:X*P&gt;7ZE)%.P&lt;'^S0#^/97VF0AU+0&amp;:B&lt;$YU-D9Z.DQP6G&amp;M0AU+0#^6-T)_$1I]1WRV=X2F=DY.#DR/97VF0E:J&lt;'QA5'&amp;U&gt;'6S&lt;DQP4G&amp;N:4Y.#DR/&gt;7V&amp;&lt;(2T0DA],UZV&lt;56M&gt;(-_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A-$QP4G&amp;N:4Y.#DR797Q_-4EV0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$%],UZB&lt;75_$1I]6G&amp;M0D%Z.4QP6G&amp;M0AU+0#^6/$Y.#DR6/$Y.#DR/97VF0F*P&gt;S!S0#^/97VF0AU+0&amp;:B&lt;$YR/45],V:B&lt;$Y.#DQP64A_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A-TQP4G&amp;N:4Y.#DR797Q_-4EV0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$1],UZB&lt;75_$1I]6G&amp;M0D%Z.4QP6G&amp;M0AU+0#^6/$Y.#DR6/$Y.#DR/97VF0F*P&gt;S!V0#^/97VF0AU+0&amp;:B&lt;$YR/45],V:B&lt;$Y.#DQP64A_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A.DQP4G&amp;N:4Y.#DR797Q_-4EV0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$=],UZB&lt;75_$1I]6G&amp;M0D%Z.4QP6G&amp;M0AU+0#^6/$Y.#DQP1WRV=X2F=DY.#DR*-49_$1I]4G&amp;N:4Z8;72U;$QP4G&amp;N:4Y.#DR797Q_-4QP6G&amp;M0AU+0#^*-49_$1I]26=_$1I]4G&amp;N:4Z.&lt;W2F0#^/97VF0AU+0%.I&lt;WFD:4Z$&lt;X"Z0#^$;'^J9W5_$1I]1WBP;7.F0E^S0#^$;'^J9W5_$1I]1WBP;7.F0E6Y9WRV=WFW:3"0=DQP1WBP;7.F0AU+0%.I&lt;WFD:4Z#;81A1WRF98)],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%.P=(E],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%^S0#^$;'^J9W5_$1I]1WBP;7.F0EZP=C"&amp;?'.M&gt;8.J&gt;G5A4X)],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%*J&gt;#"$&lt;'6B=DQP1WBP;7.F0AU+0&amp;:B&lt;$YQ0#^797Q_$1I],U680AU+0%6-0AU+0%ZB&lt;75_5X2Z&lt;'5],UZB&lt;75_$1I]1WBP;7.F0F.P&lt;'FE0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WA],U.I&lt;WFD:4Y.#DR$;'^J9W5_2'^U0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WAA2'^U0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WAA2'^U)%2P&gt;$QP1WBP;7.F0AU+0&amp;:B&lt;$YQ0#^797Q_$1I],U6-0AU+0%6-0AU+0%ZB&lt;75_2GFM&lt;#"3&gt;7RF0#^/97VF0AU+0%.I&lt;WFD:4Z&amp;&gt;G6O)%^E:$QP1WBP;7.F0AU+0%.I&lt;WFD:4Z8;7ZE;7ZH0#^$;'^J9W5_$1I]6G&amp;M0D!],V:B&lt;$Y.#DQP25Q_$1I]25Q_$1I]4G&amp;N:4Z&amp;&lt;G1A1W&amp;Q=TQP4G&amp;N:4Y.#DR$;'^J9W5_2'6G986M&gt;$QP1WBP;7.F0AU+0%.I&lt;WFD:4Z'&lt;'&amp;U0#^$;'^J9W5_$1I]6G&amp;M0D!],V:B&lt;$Y.#DQP25Q_$1I],U.M&gt;8.U:8)_$1I!!!!!</Property>
 	<Property Name="NI.LVClass.DataValRefToSelfLimitedLibFlag" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.EdgeWirePen" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!6&amp;0%.M&gt;8.U:8)_$1I]4G&amp;N:4Z1:7Y],UZB&lt;75_$1I]4H6N27RU=TYY0#^/&gt;7V&amp;&lt;(2T0AU+0&amp;5T-DY.#DR/97VF0E:P=G6H=G^V&lt;G1A1W^M&lt;X)],UZB&lt;75_$1I]6G&amp;M0D1S.DEW0#^797Q_$1I],V5T-DY.#DR6-T)_$1I]4G&amp;N:4Z#97.L:X*P&gt;7ZE)%.P&lt;'^S0#^/97VF0AU+0&amp;:B&lt;$YU-D9Z.DQP6G&amp;M0AU+0#^6-T)_$1I]1WRV=X2F=DY.#DR/97VF0E:J&lt;'QA5'&amp;U&gt;'6S&lt;DQP4G&amp;N:4Y.#DR/&gt;7V&amp;&lt;(2T0DA],UZV&lt;56M&gt;(-_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A-$QP4G&amp;N:4Y.#DR797Q_-4)W0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$%],UZB&lt;75_$1I]6G&amp;M0D%S.DQP6G&amp;M0AU+0#^6/$Y.#DR6/$Y.#DR/97VF0F*P&gt;S!S0#^/97VF0AU+0&amp;:B&lt;$YR-D9],V:B&lt;$Y.#DQP64A_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A-TQP4G&amp;N:4Y.#DR797Q_-4)W0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$1],UZB&lt;75_$1I]6G&amp;M0D%S.DQP6G&amp;M0AU+0#^6/$Y.#DR6/$Y.#DR/97VF0F*P&gt;S!V0#^/97VF0AU+0&amp;:B&lt;$YR-D9],V:B&lt;$Y.#DQP64A_$1I]64A_$1I]4G&amp;N:4Z3&lt;X=A.DQP4G&amp;N:4Y.#DR797Q_-4)W0#^797Q_$1I],V5Y0AU+0&amp;5Y0AU+0%ZB&lt;75_5G^X)$=],UZB&lt;75_$1I]6G&amp;M0D%S.DQP6G&amp;M0AU+0#^6/$Y.#DQP1WRV=X2F=DY.#DR*-49_$1I]4G&amp;N:4Z8;72U;$QP4G&amp;N:4Y.#DR797Q_-4QP6G&amp;M0AU+0#^*-49_$1I]26=_$1I]4G&amp;N:4Z.&lt;W2F0#^/97VF0AU+0%.I&lt;WFD:4Z$&lt;X"Z0#^$;'^J9W5_$1I]1WBP;7.F0E^S0#^$;'^J9W5_$1I]1WBP;7.F0E6Y9WRV=WFW:3"0=DQP1WBP;7.F0AU+0%.I&lt;WFD:4Z#;81A1WRF98)],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%.P=(E],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%^S0#^$;'^J9W5_$1I]1WBP;7.F0EZP=C"&amp;?'.M&gt;8.J&gt;G5A4X)],U.I&lt;WFD:4Y.#DR$;'^J9W5_4G^U)%*J&gt;#"$&lt;'6B=DQP1WBP;7.F0AU+0&amp;:B&lt;$YQ0#^797Q_$1I],U680AU+0%6-0AU+0%ZB&lt;75_5X2Z&lt;'5],UZB&lt;75_$1I]1WBP;7.F0F.P&lt;'FE0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WA],U.I&lt;WFD:4Y.#DR$;'^J9W5_2'^U0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WAA2'^U0#^$;'^J9W5_$1I]1WBP;7.F0E2B=WAA2'^U)%2P&gt;$QP1WBP;7.F0AU+0&amp;:B&lt;$YQ0#^797Q_$1I],U6-0AU+0%6-0AU+0%ZB&lt;75_2GFM&lt;#"3&gt;7RF0#^/97VF0AU+0%.I&lt;WFD:4Z&amp;&gt;G6O)%^E:$QP1WBP;7.F0AU+0%.I&lt;WFD:4Z8;7ZE;7ZH0#^$;'^J9W5_$1I]6G&amp;M0D!],V:B&lt;$Y.#DQP25Q_$1I]25Q_$1I]4G&amp;N:4Z&amp;&lt;G1A1W&amp;Q=TQP4G&amp;N:4Y.#DR$;'^J9W5_2'6G986M&gt;$QP1WBP;7.F0AU+0%.I&lt;WFD:4Z'&lt;'&amp;U0#^$;'^J9W5_$1I]6G&amp;M0D!],V:B&lt;$Y.#DQP25Q_$1I],U.M&gt;8.U:8)_$1I!!!!!</Property>
-	<Property Name="NI.LVClass.FlattenedPrivateDataCTL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!$+W5F.31QU+!!.-6E.$4%*76Q!!,JQ!!!1;!!!!)!!!,HQ!!!!;!!!!!26+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!!!!!!*!6!)!!!$!!!#A!!!!!!!!%!!-!0!#]!"^!A!)!!!!!!1!"!!&lt;`````!!!!!!!!!!!!!!!!;**'JDKP5%G\^Z-8/R8B-1!!!!Q!!!!1!!!!!+M&amp;W^8#6FN#N/-Z3X5]\?05(9T:DQ#S"/G!#:DM_%*_!!!1!!!!!!$-8_`F+[4+4IZ'&amp;.J.!KLL!1!!!0````]!!!!19&gt;0-#A_6[JP-4GSSBN.F,A!!!!1!!!!!!!!!*Q!"4&amp;:$1Q!!!!%!!F:*4%)!!!!!5&amp;2)-!!!!!5!!1!"!!!!!!)!!Q!!!!!#!!%!!!!!!#9!!!!G?*RDY'2A;G#YQ!$%D%$-V-$U!]D_!/)T#("!:2A!R`1+]1!!!!!!31!!!2BYH'.AQ!4`A1")-4)Q-.U!UCRIYG!;RK9GQ'5O,LOAYMR1.\*#2"G"9ER\A!QGE"R5$1&gt;%DOE#%*^!.Y=&amp;81!)!)EN+$-!!!!!!!!-!!&amp;73524!!!!!!!$!!!"D1!!!LRYH'NA:'$).,9QOQ#EG9&amp;9F+'")4E`*:7,!=BHA)!F4!QEAQ#I@CUU==-$B^/!1)^@PA8-&lt;X\$U_WC)N"=IS,"6#L3\;-CUOGDQN,*IP,CT````ZO0]"TO^MAZ\GA$5NP.!21`\K,#!?)!;291`4]Q![1+:FY!U$3/BAJFBB)7QQ.2BY]XG$"#,)9:'96K0V!Z4X=)U-9G&amp;;"TA@9,&gt;(:JA&amp;A",.;",0R4$J5+&gt;T.9-`*0/=#`\=1/E&amp;H]LA=0]W]\&gt;$C.8^Y&amp;Z(Y/E+;$$VG['T7!MLU41321C+=TB%0CO!O(DBC1TXCC%_D=4B[9LTDA\AU$'6!#N.5%Z$-7E!6A.&gt;VMRRUUQ0ZU%)&amp;1'2#K!E)6A+A&gt;Y"!]QB&amp;X'"[_;V`@WQ5+&gt;_1I-Q"CE(I^"E9'2L!=)U-N6-Y'S';#CM(C#M2GA!;&lt;"J)?&amp;5;%?3!^)*E\5$UA^C-I'W18'V2-&amp;[BH!J1.CII%+.M;S,Y!:4M"W1*1NC?)T1BB_U(:TPYOLMBJ#*9?!@QQ?=Q!!!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!!Q6!)!!!!!%-45O-!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!!Q6!)!!!!!%-45O-!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!"1"!!!!^6=VAHEGIIQO=V*/"EEZH1!!!!U!!!!!!!!!!!!!!!!!!!!!!!!!A0````_!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'"Y!!"B^A!!9`E!!'@]A!"HT)!!&lt;Q$!!'Y"Q!"O!=!!&lt;A0!!'20A!"G`Y!!9H]!!'(_!!"A`!!!9!!!!(`````!!!%!0```````````````````````````````````````````Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!0````]!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!0`_L0T[6I(_!!!!!!!!!!!!!!!!!!!!!!!!``]!!!$`L+T]`0S"6PD_!!!!!!!!!!!!!!!!!!!!!!$``Q!!`[SM`0SML)'"6F&lt;_!!!!!!!!!!!!!!!!!!!!!0``!!$_L0S"A1!!`0L[6PQ!!!!!!!!!!!!!!!!!!!!!``]!`[T]A@A!!!!!_PL[_P]!!!!!!!!!!!!!!!!!!!$``Q$``0R7_!!!!!$[6I([`Q!!!!!!!!!!!!!!!!!!!0``!0_"A@DY!!!!!&amp;&lt;[A9(`!!!!!!!!!!!!!!!!!!!!``]!`Y'"6F9!!!!!6I(]L0]!!!!!!!!!!!!!!!!!!!$``Q!!L0J7_I%!!)'"`+T_!!!!!!!!!!!!!!!!!!!!!0``!!$`_F&lt;[A;SM`+SM`P]!!!!!!!!!!!!!!!!!!!!!``]!!!$__PK"`0SML0\`!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!$``)'"L0\_`Q!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!$```````]!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$```````````````````````````````````````````]!!!!-!!&amp;'5%B1!!!!!!!$!!!$L1!!"]NYH+V6Q7M56RT_P=EEPFV8@"-4&gt;5P#TC[T;_BW&lt;1AUU:$;%#&gt;#WD6'I[#&amp;RK\:W";M+]GG^'1]$)%=P$1UBU+ABR$IK9=AP?1A:9G(/61PCIGQGH^!012$T/TU^^\M\-RO[&amp;L%/4Q?Q`N_X`@\@&gt;_]!&gt;DXA"W63H$&lt;!M+W=*/W)*AV#5!B2;(]*';"83*PA&lt;3%C18^^",&lt;E%KET9*1VET14HU/8O&amp;J_\H^#`R+#(O"2ZN9')M&amp;,4C9.9]I8WJ&amp;JPX:JMUVOF56;'&gt;X35G[L%8?U,N'$AH"[/#LEC)F)(J5FIX93/&lt;GB+(RNY%5$9O3!1O9&lt;B[9V)L(M#*3`SV+ED&amp;9)DGX*'$*$FB:7@&amp;!CA.+#"EH/'9*S^YD9X5QT&lt;L:0K560R'9I-!ATTW82Y_5ZLFW$KK&amp;(N*.BF$%`?SWP/2S[2'L8_!W.T=2BWM:^\U&amp;,6JRA)&lt;JC_Q[/8$?_!M)E-*6;D_R`_"Y::C\)-YWIR(R8M*'=4^KQ=?'+8U,MMOFQ\SQ18:N[%-&lt;S"FB1U#@9_$Z-0]/(X3Z%'M`@7.[+D]RK?;OK_-X-F.4[KX*(X\+Z#@5&lt;#;@W?P1Z\I:[/(&gt;=T)2$GA&amp;'@JBR$`N(#QP,_-!=07AJR"[2#N7=)LIZG*FYFFPYJT6G^Q8/$F^__*X@(LR8KE[MY.?:LMQMQKLF676W=]_@';\-5KX;T),;5D#.X8SV_/!@*F.)KI0UH5Q*R!T5Z8:*0,UO4TV-HNS&lt;W;4,F=FMQM,#V5YH(RP*&lt;-S)5ZGD9@WLLX,E\NDPY;4-/Z,\AD;9:D^44$!,YW8S0)2MH!$^LE'@07@;5X8&gt;U"N!C?RI7RO@0L(C:NZ^6:_MM;/ZR;EM[9=[.++16^#$W-5DE'8W[_NC(ZX&gt;H;Q8VQ&gt;"C-+&gt;W4*U0C&lt;1-L)RY^X8C_8$6FQ6D@$J\3C*+JW#NG+P18NC-P"[OIK6M*6C7#P%AO45I.;C$C&gt;B3"EK/*)F+]M6D:LH-:Y_&lt;V(O1^2PF9@$51].=/I"LVJ]+G*I*LE_[OZ^P`68+N3M^_#=Y[;AY[F^\W*"V(.U`6HK':[^H?BJJ&amp;4]#L&lt;H1[&gt;W(`KWR`X\60?`MUD(S=G?K4G-GE7E?Z_^W6S(C-&gt;PQ,RLU(@PL$@O6);%L03GELPF(_+;V%[9TN0)I&lt;1Q,$PK[1&lt;;^/6XS=&gt;V83\XA%WC+QT&amp;L4KJZP`95-YA2!&gt;II.M%7]MP,Q/UU7[68B=_=%7UB7E]:#UEC(NNQA^_C`&amp;=DJ"!!!!!!!!"!!!!#I!!!!%!!!!!!!!!!Q!!5*%3&amp;!!!!!!!!-!!!"C!!!!=HC=9W"AS"/190L(50?8A5HA+Z!B`:?"7&gt;#0]4=$![?@Q'%AT3AA#237`=P!,KA.&amp;N9_IMP"!!7K&lt;)Q=EBS("4H!-BQN'AT````H_(LE'FT&amp;%2]Y5W770)=%!"2C'1!!!!!!!!1!!!!(!!!A11!!!!A!!!!B8WZJ8URB=X2,&lt;G^X&lt;E^X&lt;GFO:UR71WRB=X.$&lt;(6T&gt;'6S!!!!1"5!A!!!!!!"!!A!-0````]!!1!!!!!!*!!!!!%!(%"1!!!63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!!%!!!!!!!!!!!!.4EF@37.P&lt;E6E;82P=A!!(&gt;!6!)!!!!!!!1!/1$$`````"%2B&gt;'%!!!%!!!!!(;YR.4!R/$!Q.!U!!!!!!2=64'^B:#!G)&amp;6O&lt;'^B:#ZM&gt;G.M98.T!!!"!!!!!!!*!!!&gt;@!&amp;E!'216%AQ!!!!"!!!!!!!!!!!!!!!!Q!!!!%0$5RB?76S,GRW9WRB=X-!!!%!!!!!!!=!!!.@``````````%!!!-_!#A!!!-Y!!!$!!!!!!!!%!!1!"A!!!!!!0```Q!!````````````````````````````````````````````````````````````````````````````````````````!1%"!1%"!1%"!1%"````````````````````````````````````````"15&amp;(2U&gt;/4EZ6&amp;25&gt;86VE*#1:W&gt;H%B)3````````````````````````````#!A),#QM/TM\1%"!2E:'4EZ/7VN&lt;FZ?8K+CI(2U&gt;````````````````````"15&amp;,3UN/TM\15&amp;"256&amp;-$!Q.45V8&amp;R=;'BII+#AG*C9$Q]0````````````````(2U&gt;0DY_256&amp;97&amp;B97&amp;B````````4U^0&gt;(2UAY/$H:W&gt;4%R-````````````!1%"/DI[35F*:'2EO&lt;GZ````````````````A)#!C)C)B)3%=X.T!1%"````````!1%"56&amp;26666I+#AO,CY````````````````CYO,E*#1&lt;7VN=X.T!1%"````````!1%"8FZ?97&amp;BL[_PK[OL````````````````FJ;7CIK+7VN&lt;8FZ?!1%"````````!1%"8&amp;R=&lt;W^PI[/DGZO&lt;````````````````G*C99'"A3UN,0T]`!1%"````````````/TM\A)#!E*#1CIK+86V&gt;````````:W&gt;H7VN&lt;1E*#/TM\'RM&lt;````````````````#QM,?(BYD9W.?8FZ:W&gt;H/DI[-T-T2%2%0$Q]-4%R)S-D"!1%````````````````````&amp;256B)3%BI;'86V&gt;4EZ/1E*#.T=X,#QM(2U&gt;"15&amp;````````````````````````````$!Q-4EZ/=8&amp;R8&amp;R=04U^*#1E%"!1!A)#````````````````````````````````````!!!!!!!!!!!!!!!!!!!!!!!!````````````````````````````````````````````````````````````````````````````````````!!!$Q!`Q(`A``$Z]@$Z]0HQ_@$Y_@$`](`A0]!@A!!!!!!!.;7:@;H.P&lt;F]U.D!Y.G1"!!!!!!!"$QV-98FF=CZM&gt;G.M98.T!!!"!!!!!!!(!!!-O!!!!!!!!!!!!!!-HA!I!!!-G!!!$!!!!!!!!#!!)!!9!!!!!!$```]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!0&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````!!!!"E:J&lt;'RF:'1"!!)!!!!"$QV-98FF=CZM&gt;G.M98.T!!!"!!!!!!!(!!!-O1!!!!!!!!!!!!!-HA!I!!!-G!!!$!!!!!!!!#!!)!!9!!!!!!$```]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!0```@```````````````````````````````````````````````````````````````````````@```@```@```@```@```@```@```@```@```@```@```1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0```````````````````````````````````````````````````````````````]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(```````!!!!"V:*)%FD&lt;WZE!1!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,5WVB&lt;'QA2G^O&gt;(-!!1E"!1!!!!!!!!!;4&amp;:$&lt;'&amp;T=V"S;8:B&gt;'6%982B6'&amp;C4X*E:8)!!!!J&amp;1#!!!!!!!)!"1!(!!!-!%!!!@````]!!!!"!!%!!!!"!!!!!!!!!!!!!!!&lt;4&amp;:$&lt;'&amp;T=V"S;8:B&gt;'6%982B6'FN:8.U97VQ!!!!'25!A!!!!!!"!!5!"Q!!!1!!V?GGW1!!!!!!!!!G4&amp;:$&lt;'&amp;T=V"S;8:B&gt;'6%982B4'&amp;T&gt;%&amp;Q='RJ:725;7VF=X2B&lt;8!!!!!:&amp;1#!!!!!!!%!"1!(!!!"!!$6[;&lt;:!!!!!!!!!"J-6E.M98.T5(*J&gt;G&amp;U:52B&gt;'&amp;5?8"F2'6T9Q!!!&amp;56!)!!!!!!!1!)!$$`````!!%!!!!!!$E!!!!#!".!"!!-:'^D&gt;7VF&lt;H1A=(2S!!!?1&amp;!!!1!!&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!"!!%!!!!!!!!!(ER71WRB=X.1=GFW982F2'&amp;U952G&lt;(2%982B5WF[:1!!!"E6!)!!!!!!!1!&amp;!!-!!!%!!!!!!!A!!!!!!!!!'ER71WRB=X.1=GFW982F2'&amp;U952G&lt;(2%982B!!!!325!A!!!!!!#!".!"!!-:'^D&gt;7VF&lt;H1A=(2S!!!?1&amp;!!!1!!&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!"!!%!!!!!!!!!!!!!!!!!!!!!!!!%!!-!#Q!!!!1!!!"2!!!!+!!!!!)!!!1!!!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$^!!!"CXC=D9]R4M.!%%7@P3:RAA-*3?C1NK+AI/%#FIAI+###DAL,;S/E"5@W/K,E..S)AC01Q1U9/U9)U;!PT@\Z-`.H&amp;NBH'A&gt;%JEDLB_T2[:5LY9&lt;0V`?8.]#@HV^@8OB&amp;6T[W[^1G648ZL;&lt;/=B1P]?$AV.;6SUJ&gt;Z,JNV;PS@JWY4*P%*7Q*'',!_]#82(5J*Q1-YDYKNX?%]&lt;-KLNR'S)K=M&lt;AL?P1*67VS'1QA;F=/F8MS9L)5PQ(&lt;(0\T%"]*P3:)&gt;]CNX""Q*D;;(8;FX'!MWD@]$H_6H]KER?:((HP#UN&lt;8;_ZF*+_3B:'Q+4.2:MS&amp;D_!,&lt;+I_3A!!!!!!!'5!!1!#!!-!"!!!!%A!$Q1!!!!!$Q$9!.5!!!"2!!]%!!!!!!]!W!$6!!!!7A!0"!!!!!!0!.A!V1!!!'/!!)1!A!!!$Q$9!.5)5W6H&lt;W5A65E)5W6H&lt;W5A65E)5W6H&lt;W5A65E"-!!!!&amp;*45E-.#A!$4&amp;:$1UR#6F=!!#[=!!!%'A!!!#!!!#Z]!!!!!!!!!!!!!!!A!!!!.!!!"!A!!!!&lt;4%F#4A!!!!!!!!&amp;54&amp;:45A!!!!!!!!&amp;I5F242Q!!!!!!!!&amp;]1U.46!!!!!!!!!'14%FW;1!!!!!!!!'E1U^/5!!!!!!!!!'Y6%UY-!!!!!!!!!(-2%:%5Q!!!!!!!!(A4%FE=Q!!!!!!!!(U6EF$2!!!!!!!!!))&gt;G6S=Q!!!!1!!!)=5U.45A!!!!!!!!+!2U.15A!!!!!!!!+535.04A!!!!!!!!+I;7.M/!!!!!!!!!+]4%FG=!!!!!!!!!,12F")9A!!!!!!!!,E2F"421!!!!!!!!,Y6F"%5!!!!!!!!!--4%FC:!!!!!!!!!-A1E2)9A!!!!!!!!-U1E2421!!!!!!!!.)6EF55Q!!!!!!!!.=2&amp;2)5!!!!!!!!!.Q466*2!!!!!!!!!/%3%F46!!!!!!!!!/96E.55!!!!!!!!!/M2F2"1A!!!!!!!!0!!!!!!0````]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!$`````!!!!!!!!!,1!!!!!!!!!!0````]!!!!!!!!!S!!!!!!!!!!!`````Q!!!!!!!!$1!!!!!!!!!!$`````!!!!!!!!!0Q!!!!!!!!!!0````]!!!!!!!!""!!!!!!!!!!!`````Q!!!!!!!!%Q!!!!!!!!!!$`````!!!!!!!!!9!!!!!!!!!!!0````]!!!!!!!!"E!!!!!!!!!!%`````Q!!!!!!!!-E!!!!!!!!!!@`````!!!!!!!!!TA!!!!!!!!!#0````]!!!!!!!!$3!!!!!!!!!!*`````Q!!!!!!!!.=!!!!!!!!!!L`````!!!!!!!!!WQ!!!!!!!!!!0````]!!!!!!!!$A!!!!!!!!!!!`````Q!!!!!!!!/9!!!!!!!!!!$`````!!!!!!!!![Q!!!!!!!!!!0````]!!!!!!!!%-!!!!!!!!!!!`````Q!!!!!!!!AU!!!!!!!!!!$`````!!!!!!!!#%1!!!!!!!!!!0````]!!!!!!!!,_!!!!!!!!!!!`````Q!!!!!!!!Q!!!!!!!!!!!$`````!!!!!!!!$!A!!!!!!!!!!0````]!!!!!!!!-'!!!!!!!!!!!`````Q!!!!!!!!S!!!!!!!!!!!$`````!!!!!!!!$)A!!!!!!!!!!0````]!!!!!!!!MU!!!!!!!!!!!`````Q!!!!!!!#T9!!!!!!!!!!$`````!!!!!!!!,/!!!!!!!!!!!0````]!!!!!!!!N$!!!!!!!!!#!`````Q!!!!!!!#Y1!!!!!"&amp;+5U^/)%2P9X6N:7ZU,G.U&lt;!!!!!!</Property>
+	<Property Name="NI.LVClass.FlattenedPrivateDataCTL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!$,S5F.31QU+!!.-6E.$4%*76Q!!,LA!!!1[!!!!)!!!,JA!!!!;!!!!!26+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!!!!!!*!6!)!!!$!!!#A!!!!!!!!%!!-!0!#]!"^!A!)!!!!!!1!"!!&lt;`````!!!!!!!!!!!!!!!!;**'JDKP5%G\^Z-8/R8B-1!!!!Q!!!!1!!!!!+M&amp;W^8#6FN#N/-Z3X5]\?05(9T:DQ#S"/G!#:DM_%*_!!!1!!!!!!$-8_`F+[4+4IZ'&amp;.J.!KLL!1!!!0````]!!!!19&gt;0-#A_6[JP-4GSSBN.F,A!!!!1!!!!!!!!!*Q!"4&amp;:$1Q!!!!%!!F:*4%)!!!!!5&amp;2)-!!!!!5!!1!"!!!!!!)!!Q!!!!!#!!%!!!!!!#9!!!!G?*RDY'2A;G#YQ!$%D%$-V-$U!]D_!/)T#("!:2A!R`1+]1!!!!!!31!!!2BYH'.AQ!4`A1")-4)Q-.U!UCRIYG!;RK9GQ'5O,LOAYMR1.\*#2"G"9ER\A!QGE"R5$1&gt;%DOE#%*^!.Y=&amp;81!)!)EN+$-!!!!!!!!-!!&amp;73524!!!!!!!$!!!"D1!!!LRYH'NA:'$).,9QOQ#EG9&amp;9F+'")4E`*:7,!=BHA)!F4!QEAQ#I@CUU==-$B^/!1)^@PA8-&lt;X\$U_WC)N"=IS,"6#L3\;-CUOGDQN,*IP,CT````ZO0]"TO^MAZ\GA$5NP.!21`\K,#!?)!;291`4]Q![1+:FY!U$3/BAJFBB)7QQ.2BY]XG$"#,)9:'96K0V!Z4X=)U-9G&amp;;"TA@9,&gt;(:JA&amp;A",.;",0R4$J5+&gt;T.9-`*0/=#`\=1/E&amp;H]LA=0]W]\&gt;$C.8^Y&amp;Z(Y/E+;$$VG['T7!MLU41321C+=TB%0CO!O(DBC1TXCC%_D=4B[9LTDA\AU$'6!#N.5%Z$-7E!6A.&gt;VMRRUUQ0ZU%)&amp;1'2#K!E)6A+A&gt;Y"!]QB&amp;X'"[_;V`@WQ5+&gt;_1I-Q"CE(I^"E9'2L!=)U-N6-Y'S';#CM(C#M2GA!;&lt;"J)?&amp;5;%?3!^)*E\5$UA^C-I'W18'V2-&amp;[BH!J1.CII%+.M;S,Y!:4M"W1*1NC?)T1BB_U(:TPYOLMBJ#*9?!@QQ?=Q!!!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!!Q6!)!!!!!%-45O-!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!!Q6!)!!!!!%-45O-!!!!!!/&amp;1'!"!!!"D%V,D!O-1!!!!!!!"1"!!!!^6=VAHEGIIQO=V*/"EEZH1!!!!U!!!!!!!!!!!!!!!!!!!!!!!!!A0````_!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'"Y!!"B^A!!9`E!!'@]A!"HT)!!&lt;Q$!!'Y"Q!"O!=!!&lt;A0!!'20A!"G`Y!!9H]!!'(_!!"A`!!!9!!!!(`````!!!%!0```````````````````````````````````````````Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!0````]!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!0`_L0T[6I(_!!!!!!!!!!!!!!!!!!!!!!!!``]!!!$`L+T]`0S"6PD_!!!!!!!!!!!!!!!!!!!!!!$``Q!!`[SM`0SML)'"6F&lt;_!!!!!!!!!!!!!!!!!!!!!0``!!$_L0S"A1!!`0L[6PQ!!!!!!!!!!!!!!!!!!!!!``]!`[T]A@A!!!!!_PL[_P]!!!!!!!!!!!!!!!!!!!$``Q$``0R7_!!!!!$[6I([`Q!!!!!!!!!!!!!!!!!!!0``!0_"A@DY!!!!!&amp;&lt;[A9(`!!!!!!!!!!!!!!!!!!!!``]!`Y'"6F9!!!!!6I(]L0]!!!!!!!!!!!!!!!!!!!$``Q!!L0J7_I%!!)'"`+T_!!!!!!!!!!!!!!!!!!!!!0``!!$`_F&lt;[A;SM`+SM`P]!!!!!!!!!!!!!!!!!!!!!``]!!!$__PK"`0SML0\`!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!$``)'"L0\_`Q!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!$```````]!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$```````````````````````````````````````````]!!!!#!!%!!!!!!!Q!!5:13&amp;!!!!!!!!-!!!/N!!!(SXC=L68";R28(0[^S33_86&gt;]%R.V3],/,L.L[(:N#$42E.I1*U,;.5;DI)8'LNH9&amp;KQLS;&lt;U:$Q-A2S].$3(1K#(%/CJBS#^Z#"FC9=Z6#_+C&lt;#;@U!^"%0-\04XXOTMT'\I7M1Z0"\$_X\@^`N^X\Q"W0?!(:6+=.M#QL:QE\9AG$5*1#&amp;&amp;I@QE:I&amp;&gt;)G_"N)3*"@XU%NO13K4.AF$74."/@1Z?Y7H\O@U,`%I)?Y&amp;(GVA9CQ5N/*AVDSB@;E7G`&gt;GGT47[626I:X&gt;*3&lt;KM2&gt;\1OU9/#=(IY+O3)C5A?F37D&gt;B)ZO;%I@'XA21.CZ)"#ZBO(JD5CM?Q)F,`,5K3-6AC/&lt;=E9-E/7&amp;F:]5#+!UI)'3=Y:AH,XC.D&gt;4$.ONE_J25`%:CAQ#$00:&gt;(DZ4GO89/KI5?UEW'5-4^\,;]Z(,J%;N@Y$9X.R'(;RHXP15N7H'!BOG,\$IZ=.\Y#QC1QF6K0\(`Y(BFG,MATD;D%@&amp;?QE:R0WL"RY9J@1OSS[8$P,""&gt;GXI1RP)'7&amp;$1*^DY0EQ`QY@&gt;,E1;T^^9XIK0T'JZK[LYT=S5V0KL=E@@MLE*^2M*J`:[^$HOBHIY&gt;VT-B%/;!5:_G(%0_U=,#]PYQ"Q^;#H%(J%+V:QCODG9G8C77`CH.7&lt;X"=Y/8X\YH&gt;]?P&amp;?K4KTAVZGOT#T#KO66:8:TTZ]:LMR3L&gt;L-ANJ3-)X&gt;@,8YY"]G5UCKA`3&gt;4!H%$.4F&gt;EE]P3Z005S?X*P:J-O6S7T#QM,64C=@']FMT)B4G;.B`;OP=O4OW/`BJ-Q\EPO#.JBG0V.--!PD:@)]B'S=!0WO1:]^:^J4&gt;&gt;X1'U#*\'B&lt;'Z]_M?*GXHV6H[SRI\H&amp;K3TJBTIUIJ"8U)09R3/1:@&lt;L[W)@H&gt;W&gt;L"@8"U')QJX:-H1_*N!SMD(DX&gt;?,Z=.78"7.]/HN+)EKH9+W9K^"?W)S](K[CJ7QF7*9+]3#Z.3AVK)/*W&amp;)'3IYEC5LSR7.GO=RHDZP5?Z$V'_6B].2$QVQ[A'P7HQK9GAGO4\K\HW`^6=KV+TXY*TDJK$DK8XP9E(5=X4^7?I:HLW&gt;['GE60Q+NO&gt;$JX9@_L&lt;(`@N5^\_T3-@*S:[J/9S;2;2\H\X:8)?)RW`!P'P1&gt;__M._Z5BI3M^+;3O_5@YJL54JD/U]CBN$!M/_LJ"NLUZ8@*RX6&gt;,P?!4;)L$-7N/KHG`^B1TC"%"WCAWQ2&lt;SS]P!\42&lt;J6?&amp;TZQ2&lt;3&amp;;4RE,33)?WX#$X[,]6S/E%!!!!!!!!%!!!!+A!!!!1!!!!!!!!!$!!"1E2)5!!!!!!!!Q!!!')!!!"S?*RD9'$)%Z"A_M&gt;1^Z?"3?!LE#(^FY&amp;:U)`R.Q-$JZ`!93$.+#!*&amp;*&lt;^S]!OK!U7VD[CS]%!";JMD"S3()=&amp;/=!S(#U;$0```_@Y?O1;8-52(TB4::9]BQ1!&amp;'):!!!!!!!!"!!!!!=!!#"7!!!!#!!!!#&amp;@&lt;GF@4'&amp;T&gt;%NO&lt;X&gt;O4X&gt;O;7ZH4&amp;:$&lt;'&amp;T=U.M&gt;8.U:8)!!!"6&amp;1#!!!!!!!%!#!!Q`````Q!"!!!!!!!Z!!!!!A!41!1!$'2P9X6N:7ZU)("U=A!!(E"1!!%!!"6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!!1!"!!!!!!!!!!V/36^*9W^O272J&gt;'^S!!!&gt;U"5!A!!!!!!"!!Z!-0````]%2'&amp;U91!!!1!!!!!&gt;LD%V-$%Y-$!U$1!!!!!"&amp;R6-&lt;W&amp;E)#9A67ZM&lt;W&amp;E,GRW9WRB=X-!!!%!!!!!!!E!!"V]!71!:&amp;"53$!!!!!%!!!!!!!!!!!!!!!$!!!!!1].4'&amp;Z:8)O&lt;(:D&lt;'&amp;T=Q!!!1!!!!!!"Q!!!V``````````]1!!!TY!+!!!!TA!!!-!!!!!!!!1!"!!'!!!!!!!````!!$```````````````````````````````````````````````````````````````````````````````````````]"!1%"!1%"!1%"!1(```````````````````````````````````````]&amp;"15&gt;(2UZ/4F56&amp;2V&gt;871E*"H:W=3%B,```````````````````````````])#!AM,#Q\/TN!1%"'2E:/4EZ&lt;7VO8FZ?IK+A&gt;(2X```````````````````]&amp;"15N,3U\/TN"15&amp;&amp;255Q-$!V.46=8&amp;RI;'CAI+#9G*A0$Q````````````````]&gt;(2U_0DZ&amp;256B97&amp;B97(```````^04U^U&gt;(3$AY/&gt;H:V-4%T```````````]"!1%[/DJ*35FE:'3ZO&lt;H```````````````_!A)#)C)C%B)2T=X-"!1(```````]"!1&amp;256&amp;6667AI+#YO,D```````````````_,CYO1E*"N&lt;7VT=X-"!1(```````]"!1&amp;?8FZB97'PL[_LK[P```````````````_7FJ;+CIJ&lt;7VN?8FY"!1(```````]"!1&amp;=8&amp;RP&lt;W_DI[/&lt;GZP```````````````_9G*BA9'",3UM`0T]"!1(```````````]\/TO!A)#1E*#+CIJ&gt;86X```````^H:W&gt;&lt;7VN#1E)\/TM&lt;'RP```````````````],#QNY?(C.D9VZ?8FH:W=[/DIT-T.%2%1]0$QR-4%D)S-%"!4```````````````````]6&amp;27%B)3'BI:&gt;86V/4EZ#1E)X.T=M,#Q&gt;(2U&amp;"18```````````````````````````]-$!R/4EZR=8&amp;=8&amp;Q^04UE*#11%"!#!A,```````````````````````````````````]!!!!!!!!!!!!!!!!!!!!!!!$```````````````````````````````````````````````````````````````````````````````````]!!!0!$`!@_$`]0HR]0HQ_@$Z]0DZ]0`Q@_!`Q"_!!!!!!!!VJ:F^K=W^O8T1W-$AW:!%!!!!!!!%0$5RB?76S,GRW9WRB=X-!!!%!!!!!!!=!!!SY!!!!!!!!!!!!!!S?!#A!!!S9!!!-!!!!!!!!)!!A!"A!!!!!!0```Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W^P&lt;W!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````]!!!!'2GFM&lt;'6E:!%!!A!!!!%0$5RB?76S,GRW9WRB=X-!!!%!!!!!!!=!!!SZ!!!!!!!!!!!!!!S?!#A!!!S9!!!-!!!!!!!!)!!A!"A!!!!!!0```Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!```^```````````````````````````````````````````````````````````````````````^```^```^```^```^```^```^```^```^```^```^```^!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!````````````````````````````````````````````````````````````````Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@`]!!(``!!"``Q!!@``````]!!!!(6EEA37.P&lt;G1"!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!N4&lt;7&amp;M&lt;#"'&lt;WZU=Q!"#1%"!!!!!!!!!"J-6E.M98.T5(*J&gt;G&amp;U:52B&gt;'&amp;597*0=G2F=A!!!#E6!)!!!!!!!A!&amp;!!=!!!Q!1!!"`````Q!!!!%!!1!!!!%!!!!!!!!!!!!!!"N-6E.M98.T5(*J&gt;G&amp;U:52B&gt;'&amp;5;7VF=X2B&lt;8!!!!!:&amp;1#!!!!!!!%!"1!(!!!"!!$6[;&lt;:!!!!!!!!!#:-6E.M98.T5(*J&gt;G&amp;U:52B&gt;'&amp;-98.U18"Q&lt;'FF:&amp;2J&lt;76T&gt;'&amp;N=!!!!"E6!)!!!!!!!1!&amp;!!=!!!%!!.8JJNE!!!!!!!!!'ER71WRB=X.1=GFW982F2'&amp;U962Z='6%:8.D!!!!625!A!!!!!!"!!A!-0````]!!1!!!!!!/1!!!!)!%U!%!!RE&lt;W.V&lt;76O&gt;#"Q&gt;()!!"Z!5!!"!!!63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!!%!!1!!!!!!!!!?4&amp;:$&lt;'&amp;T=V"S;8:B&gt;'6%982B2':M&gt;%2B&gt;'&amp;4;8JF!!!!'25!A!!!!!!"!!5!!Q!!!1!!!!!!#!!!!!!!!!!;4&amp;:$&lt;'&amp;T=V"S;8:B&gt;'6%982B2':M&gt;%2B&gt;'%!!!"*&amp;1#!!!!!!!)!%U!%!!RE&lt;W.V&lt;76O&gt;#"Q&gt;()!!"Z!5!!"!!!63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!!%!!1!!!!!!!!!!!!!!!!!!!!!!"!!$!!M!!!!%!!!!51!!!#A!!!!#!!!%!!!!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!`1!!!9NYH)W0-5\$1""&amp;H\UG=9)$#5HIE,;CI+$B!J;)+#AAAIY+SWMDJ!6(^DKCZ$4=C))DU-%.'$N'#.'A,]X__40T:R&lt;9:RI(2+:)[Y@MU?G6+_''T^@XFT@!HZ^@8V\I26=_NOP5*F5V_;WGTH)5,`(AY.47F=N+8?3[&lt;&gt;7L]H[&gt;O%S&lt;R#6M#2BCQ0P!FU2V+3=%$/)_+L&gt;XB0'T+K\=2MC+H,'Y+XLU#66N=BE-)'J8$J6\-G+S&amp;,]"WRT_]R!@#&lt;UG3(@)L&gt;Q1=#9WGBVWJ&gt;RA,.IX`!Z`F:`+J-8G2RZ\QN,7VWPO:33PEI72M#ET57&lt;-B9`A#WSK0EI!!!!!!!"F!!%!!A!$!!1!!!")!!]%!!!!!!]!W!$6!!!!51!0"!!!!!!0!.A!V1!!!&amp;I!$Q1!!!!!$Q$9!.5!!!"DA!#%!)!!!!]!W!$6#&amp;.F:W^F)&amp;6*#&amp;.F:W^F)&amp;6*#&amp;.F:W^F)&amp;6*!4!!!!"35V*$$1I!!UR71U.-1F:8!!!OO!!!"$I!!!!A!!!OG!!!!!!!!!!!!!!!)!!!!$1!!!1I!!!!(%R*1EY!!!!!!!!"9%R75V)!!!!!!!!"&gt;&amp;*55U=!!!!!!!!"C%.$5V1!!!!!!!!"H%R*&gt;GE!!!!!!!!"M%.04F!!!!!!!!!"R&amp;2./$!!!!!!!!!"W%2'2&amp;-!!!!!!!!"\%R*:(-!!!!!!!!#!&amp;:*1U1!!!!!!!!#&amp;(:F=H-!!!!%!!!#+&amp;.$5V)!!!!!!!!#D%&gt;$5&amp;)!!!!!!!!#I%F$4UY!!!!!!!!#N'FD&lt;$A!!!!!!!!#S%.11T)!!!!!!!!#X%R*:H!!!!!!!!!#]%:13')!!!!!!!!$"%:15U5!!!!!!!!$'&amp;:12&amp;!!!!!!!!!$,%R*9G1!!!!!!!!$1%*%3')!!!!!!!!$6%*%5U5!!!!!!!!$;&amp;:*6&amp;-!!!!!!!!$@%253&amp;!!!!!!!!!$E%V6351!!!!!!!!$J%B*5V1!!!!!!!!$O&amp;:$6&amp;!!!!!!!!!$T%:515)!!!!!!!!$Y!!!!!$`````!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!`````Q!!!!!!!!#U!!!!!!!!!!$`````!!!!!!!!!-A!!!!!!!!!!0````]!!!!!!!!!U!!!!!!!!!!!`````Q!!!!!!!!$]!!!!!!!!!!$`````!!!!!!!!!11!!!!!!!!!!0````]!!!!!!!!"-!!!!!!!!!!!`````Q!!!!!!!!'!!!!!!!!!!!$`````!!!!!!!!!:!!!!!!!!!!"0````]!!!!!!!!$*!!!!!!!!!!(`````Q!!!!!!!!-Y!!!!!!!!!!D`````!!!!!!!!!UA!!!!!!!!!#@````]!!!!!!!!$8!!!!!!!!!!+`````Q!!!!!!!!.M!!!!!!!!!!$`````!!!!!!!!!Y!!!!!!!!!!!0````]!!!!!!!!$G!!!!!!!!!!!`````Q!!!!!!!!/M!!!!!!!!!!$`````!!!!!!!!"$!!!!!!!!!!!0````]!!!!!!!!).!!!!!!!!!!!`````Q!!!!!!!!A]!!!!!!!!!!$`````!!!!!!!!#%Q!!!!!!!!!!0````]!!!!!!!!-!!!!!!!!!!!!`````Q!!!!!!!!Q)!!!!!!!!!!$`````!!!!!!!!$"!!!!!!!!!!!0````]!!!!!!!!-)!!!!!!!!!!!`````Q!!!!!!!!S)!!!!!!!!!!$`````!!!!!!!!$*!!!!!!!!!!!0````]!!!!!!!!M\!!!!!!!!!!!`````Q!!!!!!!#TU!!!!!!!!!!$`````!!!!!!!!,0Q!!!!!!!!!!0````]!!!!!!!!N+!!!!!!!!!#!`````Q!!!!!!!#YM!!!!!"&amp;+5U^/)%2P9X6N:7ZU,G.U&lt;!!!!!!</Property>
 	<Property Name="NI.LVClass.Geneology" Type="Xml"><String>
 
 <Name></Name>
@@ -27,7 +27,7 @@
 	</Item>
 	<Item Name="json Clone" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json Clone - array path.vi" Type="VI" URL="../json Clone - array path.vi">
+			<Item Name="json Clone - array path.vi" Type="VI" URL="../json clone/json Clone - array path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!("("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -36,7 +36,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
-			<Item Name="json Clone - string path.vi" Type="VI" URL="../json Clone - string path.vi">
+			<Item Name="json Clone - string path.vi" Type="VI" URL="../json clone/json Clone - string path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!(!!A$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -46,7 +46,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
 			</Item>
 		</Item>
-		<Item Name="json Clone.vi" Type="VI" URL="../json Clone.vi">
+		<Item Name="json Clone.vi" Type="VI" URL="../json clone/json Clone.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[B@9;!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -57,30 +57,30 @@
 		</Item>
 	</Item>
 	<Item Name="json Close" Type="Folder">
-		<Item Name="json Close.vi" Type="VI" URL="../json Close.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$P!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!"A-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#A!!!!!"!!=!!!!!</Property>
+		<Item Name="json Close.vi" Type="VI" URL="../json close/json Close.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$P!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!"A-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!!!!"!!=!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 		</Item>
 	</Item>
 	<Item Name="json Create" Type="Folder">
-		<Item Name="json Create.vi" Type="VI" URL="../json Create.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%$!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#UJ44UYA5X2S;7ZH!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!2)!!!!!!!!!!!%!#!!!!!!</Property>
+		<Item Name="json Create.vi" Type="VI" URL="../json create/json Create.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%$!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#UJ44UYA5X2S;7ZH!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!1I!!!!!!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 		</Item>
 	</Item>
 	<Item Name="json Delete" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json Delete - array path.vi" Type="VI" URL="../json Delete - array path.vi">
+			<Item Name="json Delete - array path.vi" Type="VI" URL="../json delete/json Delete - array path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -89,17 +89,17 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082401300</Property>
 			</Item>
-			<Item Name="json Delete - string path.vi" Type="VI" URL="../json Delete - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+			<Item Name="json Delete - string path.vi" Type="VI" URL="../json delete/json Delete - string path.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;)!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 		</Item>
-		<Item Name="json Delete.vi" Type="VI" URL="../json Delete.vi">
+		<Item Name="json Delete.vi" Type="VI" URL="../json delete/json Delete.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[C2!,!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -110,207 +110,410 @@
 		</Item>
 	</Item>
 	<Item Name="json Insert" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json Insert Boolean - array path.vi" Type="VI" URL="../json Insert Boolean - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1#%)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!A%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="Boolean" Type="Folder">
+				<Item Name="json Insert Boolean - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Boolean - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!)1BB&lt;HFU;'FO:Q!!$E!Q`````Q2Q982I!!!31%!!!@````]!#12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!A!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!AA!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342972434</Property>
+				</Item>
+				<Item Name="json Insert Boolean - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Boolean - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;9!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!)1BB&lt;HFU;'FO:Q!!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!A!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
+				</Item>
+				<Item Name="json Insert Boolean Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Boolean Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'!!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!)1BB&lt;HFU;'FO:Q!!&amp;E"!!!(`````!!A)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!I%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!*!!M!$!-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!B!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert Boolean Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Boolean Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!)1BB&lt;HFU;'FO:Q!!&amp;E"!!!(`````!!A)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!*!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!B!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert Boolean - string path.vi" Type="VI" URL="../json Insert Boolean - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;+!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1#%)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="Double" Type="Folder">
+				<Item Name="json Insert Double - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Double - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#A!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert Double - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Double - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#A!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert Double Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Double Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#A!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert Double Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Double Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#A!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert Double - array path.vi" Type="VI" URL="../json Insert Double - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!I!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="Float" Type="Folder">
+				<Item Name="json Insert Float - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Float - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1FS:8"M97.F:$]!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#1!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!I!#Q-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1115685394</Property>
+				</Item>
+				<Item Name="json Insert Float - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Float - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#1!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
+				</Item>
+				<Item Name="json Insert Float Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Float Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#1!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert Float Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Float Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#1!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert Double - string path.vi" Type="VI" URL="../json Insert Double - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!I!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="I32" Type="Folder">
+				<Item Name="json Insert I32 - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert I32 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!!Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert I32 - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert I32 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!!Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert I32 Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert I32 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!!Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert I32 Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert I32 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!!Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert Float - array path.vi" Type="VI" URL="../json Insert Float - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!E!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="I64" Type="Folder">
+				<Item Name="json Insert I64 - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert I64 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"!!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert I64 - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert I64 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"!!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert I64 Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert I64 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"!!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert I64 Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert I64 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"!!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert Float - string path.vi" Type="VI" URL="../json Insert Float - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!E!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="json" Type="Folder">
+				<Item Name="json Insert json - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert json - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert json - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert json - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;U!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert json Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert json Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'=!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert json Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert json Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'+!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert I32 - array path.vi" Type="VI" URL="../json Insert I32 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!-!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="path" Type="Folder">
+				<Item Name="json Insert Path - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Path - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-P````])97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert Path - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Path - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-P````])97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert Path Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Path Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-P````])97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+				</Item>
+				<Item Name="json Insert Path Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Path Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-P````])97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert I32 - string path.vi" Type="VI" URL="../json Insert I32 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!-!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="string" Type="Folder">
+				<Item Name="json Insert String - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert String - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````])97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert String - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert String - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````])97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert String Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert String Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````])97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
+				<Item Name="json Insert String Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert String Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````])97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert I64 - array path.vi" Type="VI" URL="../json Insert I64 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!1!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="U32" Type="Folder">
+				<Item Name="json Insert U32 - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert U32 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert U32 - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert U32 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"Q!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert U32 Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert U32 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Insert U32 Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert U32 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"Q!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert I64 - string path.vi" Type="VI" URL="../json Insert I64 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!1!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="U64" Type="Folder">
+				<Item Name="json Insert U64 - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert U64 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#!!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!E%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!I!#Q-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert U64 - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert U64 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#!!)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!5!"1!&amp;!!5!"Q!)!!E!#A-!!(A!!!U)!!!*!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert U64 Array - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert U64 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#!!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!,!!Q$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Insert U64 Array - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert U64 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!#!!)97ZZ&gt;'BJ&lt;G=!!":!1!!"`````Q!)#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#1!+!!M$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				</Item>
 			</Item>
-			<Item Name="json Insert json - array path.vi" Type="VI" URL="../json Insert json - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Y!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!K1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert json - string path.vi" Type="VI" URL="../json Insert json - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!K1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Insert Path - array path.vi" Type="VI" URL="../json Insert Path - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$,`````#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert Path - string path.vi" Type="VI" URL="../json Insert Path - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$,`````#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Insert String - array path.vi" Type="VI" URL="../json Insert String - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert String - string path.vi" Type="VI" URL="../json Insert String - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Insert U32 - array path.vi" Type="VI" URL="../json Insert U32 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!=!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert U32 - string path.vi" Type="VI" URL="../json Insert U32 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!=!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Insert U64 - array path.vi" Type="VI" URL="../json Insert U64 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!A!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!)"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert U64 - string path.vi" Type="VI" URL="../json Insert U64 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!A!#'&amp;O?82I;7ZH!!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Insert Variant - array path.vi" Type="VI" URL="../json Insert Variant - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1&amp;-)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!A%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Insert Variant - string path.vi" Type="VI" URL="../json Insert Variant - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;+!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1&amp;-)97ZZ&gt;'BJ&lt;G=!!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="other" Type="Folder">
+				<Item Name="json Insert Variant - array path.vi" Type="VI" URL="../json insert/poly instances/json Insert Variant - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!5QBB&lt;HFU;'FO:Q!!$E!Q`````Q2Q982I!!!31%!!!@````]!#12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!A!#A!,!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Insert Variant - string path.vi" Type="VI" URL="../json insert/poly instances/json Insert Variant - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;9!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F='RB9W6E0Q!%!!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!5QBB&lt;HFU;'FO:Q!!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"1!&amp;!!5!"1!(!!A!#1!+!Q!!?!!!$1A!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
 			</Item>
 		</Item>
-		<Item Name="json Insert.vi" Type="VI" URL="../json Insert.vi">
+		<Item Name="json Insert.vi" Type="VI" URL="../json insert/json Insert.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[A`+M!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -320,190 +523,383 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 		</Item>
 	</Item>
+	<Item Name="json Member Names" Type="Folder">
+		<Item Name="json Member Names - string path.vi" Type="VI" URL="../json member names/json Member Names - string path.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!-0````]'5X2S;7ZH!!!;1%!!!@````]!"1R.:7VC:8)A4G&amp;N:8-!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+	</Item>
 	<Item Name="json Parse" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json Parse Boolean - array path.vi" Type="VI" URL="../json Parse Boolean - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!)16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!B"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!#12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!#A!,!Q!!?!!!$1A!!!!!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="boolean" Type="Folder">
+				<Item Name="json Parse Boolean - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Boolean - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Q!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E!B"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!B"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!#A2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#Q!-!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Boolean - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Boolean - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E!B"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!B"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#A!,!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082401302</Property>
+				</Item>
+				<Item Name="json Parse Boolean Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Boolean Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'B!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E!B"8:B&lt;(6F!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1#%(:'6G986M&gt;!!51%!!!@````]!#Q&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!U%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!-!!Y!$Q-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!1!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
+				</Item>
+				<Item Name="json Parse Boolean Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Boolean Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'0!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E!B"8:B&lt;(6F!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1#%(:'6G986M&gt;!!51%!!!@````]!#Q&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!-!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse Boolean - string path.vi" Type="VI" URL="../json Parse Boolean - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;3!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!)16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!B"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!#1!+!Q!!?!!!$1A!!!!!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="double" Type="Folder">
+				<Item Name="json Parse Double - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Double - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!+!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#A!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1115685394</Property>
+				</Item>
+				<Item Name="json Parse Double - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Double - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!+!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#A!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1115685394</Property>
+				</Item>
+				<Item Name="json Parse Double Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Double Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!+!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse Double Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Double Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!+!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse Double - array path.vi" Type="VI" URL="../json Parse Double - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#A!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#A!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="float" Type="Folder">
+				<Item Name="json Parse Float - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Float - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!*!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#1!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Float - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Float - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!*!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#1!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Float Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Float Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!*!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse Float Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Float Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!*!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse Double - string path.vi" Type="VI" URL="../json Parse Double - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#A!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#A!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="I32" Type="Folder">
+				<Item Name="json Parse I32 - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse I32 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!$!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse I32 - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse I32 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!$!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse I32 Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse I32 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!$!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse I32 Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse I32 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!$!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse Float - array path.vi" Type="VI" URL="../json Parse Float - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#1!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#1!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="I64" Type="Folder">
+				<Item Name="json Parse I64 - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse I64 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!%!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse I64 - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse I64 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!%!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse I64 Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse I64 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!%!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse I64 Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse I64 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!%!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536982</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse Float - string path.vi" Type="VI" URL="../json Parse Float - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#1!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#1!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="other" Type="Folder">
+				<Item Name="json Parse Variant - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Variant - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Q!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E"4"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!#A2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#Q!-!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Variant - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Variant - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#E"4"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!E!#A!,!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse I32 - array path.vi" Type="VI" URL="../json Parse I32 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!!Q!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="Path" Type="Folder">
+				<Item Name="json Parse Path - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Path - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Y!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!S`````Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-P````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Path - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Path - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!S`````Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-P````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse Path Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse Path Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'J!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!S`````Q6W97RV:1!31%!!!@````]!"16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!N!!Q!%=WF[:1!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!S`````Q&gt;E:7:B&gt;7RU!"2!1!!"`````Q!,"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!$12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!'!!=!#!!*!!E!#1!+!!Q!$A!0!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!"%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!"!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse Path Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse Path Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!S`````Q6W97RV:1!31%!!!@````]!"16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!N!!Q!%=WF[:1!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!S`````Q&gt;E:7:B&gt;7RU!"2!1!!"`````Q!,"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!'!!=!#!!*!!E!#1!+!!Q!$1!/!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!"%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!]!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536982</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse I32 - string path.vi" Type="VI" URL="../json Parse I32 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!!Q!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!!Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="String" Type="Folder">
+				<Item Name="json Parse String - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse String - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Y!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!Q`````Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!%3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse String - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse String - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!Q`````Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!%3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse String Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse String Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'J!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!Q`````Q6W97RV:1!31%!!!@````]!"16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!N!!Q!%=WF[:1!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;E:7:B&gt;7RU!"2!1!!"`````Q!,"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!$12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!'!!=!#!!*!!E!#1!+!!Q!$A!0!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!"%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!"!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse String Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse String Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$E!Q`````Q6W97RV:1!31%!!!@````]!"16W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!N!!Q!%=WF[:1!!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&gt;E:7:B&gt;7RU!"2!1!!"`````Q!,"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!'!!=!#!!*!!E!#1!+!!Q!$1!/!Q!!?!!!$1A!!!E!!!!.#1!!$1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!"%A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!]!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536982</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse I64 - array path.vi" Type="VI" URL="../json Parse I64 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!"!!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Item Name="U32" Type="Folder">
+				<Item Name="json Parse U32 - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse U32 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!(!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse U32 - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse U32 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!(!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse U32 Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse U32 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!(!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse U32 Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse U32 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!(!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536982</Property>
+				</Item>
 			</Item>
-			<Item Name="json Parse I64 - string path.vi" Type="VI" URL="../json Parse I64 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!"!!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Parse Path - array path.vi" Type="VI" URL="../json Parse Path - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;M!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-P````]&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-P````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Parse Path - string path.vi" Type="VI" URL="../json Parse Path - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-P````]&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-P````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!"%A!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Parse String - array path.vi" Type="VI" URL="../json Parse String - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;M!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!%3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Parse String - string path.vi" Type="VI" URL="../json Parse String - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````](:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!%3!!!"%A!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Parse U32 - array path.vi" Type="VI" URL="../json Parse U32 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!"Q!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Parse U32 - string path.vi" Type="VI" URL="../json Parse U32 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!"Q!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!"Q!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Parse U64 - array path.vi" Type="VI" URL="../json Parse U64 - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;G!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#!!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!*"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!+!!M$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Parse U64 - string path.vi" Type="VI" URL="../json Parse U64 - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;5!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!#!!&amp;&gt;G&amp;M&gt;75!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
-			</Item>
-			<Item Name="json Parse Variant - array path.vi" Type="VI" URL="../json Parse Variant - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!5Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!31%!!!@````]!#12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!#A!,!Q!!?!!!$1A!!!!!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
-			<Item Name="json Parse Variant - string path.vi" Type="VI" URL="../json Parse Variant - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;3!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!5Q6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%"4"W2F:G&amp;V&lt;(1!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!A!#1!+!Q!!?!!!$1A!!!!!!!!.#1!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!2)!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
+			<Item Name="U64" Type="Folder">
+				<Item Name="json Parse U64 - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse U64 - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!)!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!+"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!,!!Q$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse U64 - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse U64 - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!#U!)!!6W97RV:1!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%5J44UYA2'^D&gt;7VF&lt;H1A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!V!#!!(:'6G986M&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!#1!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				</Item>
+				<Item Name="json Parse U64 Array - array path.vi" Type="VI" URL="../json parse/poly instances/json Parse U64 Array - array path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'9!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!)!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!Q%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!U!$A-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!0!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				</Item>
+				<Item Name="json Parse U64 Array - string path.vi" Type="VI" URL="../json parse/poly instances/json Parse U64 Array - string path.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!''!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!$5!)!!&gt;E:7:B&gt;7RU!"*!1!!"`````Q!&amp;"8:B&lt;(6F!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!#U!$!!2T;8JF!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51%!!!@````]!"1&gt;E:7:B&gt;7RU!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"A!(!!A!#1!*!!E!#A!,!!Q!$1-!!(A!!!U)!!!*!!!!$1E!!!U,!!!*!!!!!!!!!!!!!!!!!!!!#A!!!2)!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1074536982</Property>
+				</Item>
 			</Item>
 		</Item>
-		<Item Name="json Parse.vi" Type="VI" URL="../json Parse.vi">
+		<Item Name="json Parse.vi" Type="VI" URL="../json parse/json Parse.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)!!!!!!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">-2147483648</Property>
@@ -515,7 +911,7 @@
 	</Item>
 	<Item Name="json Query" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json Query - array path.vi" Type="VI" URL="../json Query - array path.vi">
+			<Item Name="json Query - array path.vi" Type="VI" URL="../json query/json Query - array path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(%!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!;A$R!!!!!!!!!!)8=G&amp;Q;72K=W^O)(&gt;S98"Q:8)O&lt;(:M;7)-;H.P&lt;F2Z='5O9X2M!$V!&amp;A!("%ZV&lt;'Q&amp;2G&amp;M=W5%6(*V:1:09GJF9X1&amp;18*S98E'5X2S;7ZH"EZV&lt;7*F=A!!"(2Z='5!!!R!)1:G&lt;X6O:$]!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!Q`````Q2Q982I!!!31%!!!@````]!#12Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#A!,!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -524,7 +920,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
-			<Item Name="json Query - string path.vi" Type="VI" URL="../json Query - string path.vi">
+			<Item Name="json Query - string path.vi" Type="VI" URL="../json query/json Query - string path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'S!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!;A$R!!!!!!!!!!)8=G&amp;Q;72K=W^O)(&gt;S98"Q:8)O&lt;(:M;7)-;H.P&lt;F2Z='5O9X2M!$V!&amp;A!("%ZV&lt;'Q&amp;2G&amp;M=W5%6(*V:1:09GJF9X1&amp;18*S98E'5X2S;7ZH"EZV&lt;7*F=A!!"(2Z='5!!!R!)1:G&lt;X6O:$]!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!Q`````Q2Q982I!!!S1(!!(A!!&amp;R6+5U^/)%2P9X6N:7ZU,GRW9WRB=X-!%%J44UYA2'^D&gt;7VF&lt;H1A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#1!+!Q!!?!!!$1A!!!E!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -534,7 +930,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
 			</Item>
 		</Item>
-		<Item Name="json Query.vi" Type="VI" URL="../json Query.vi">
+		<Item Name="json Query.vi" Type="VI" URL="../json query/json Query.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[C(U9!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -546,7 +942,7 @@
 	</Item>
 	<Item Name="json To Pretty String" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json To Pretty String - array path.vi" Type="VI" URL="../json To Pretty String - array path.vi">
+			<Item Name="json To Pretty String - array path.vi" Type="VI" URL="../json to string/json To Pretty String - array path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````],;H.P&lt;C"T&gt;(*J&lt;G=!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!A%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!E!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!))!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -555,7 +951,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
-			<Item Name="json To Pretty String - string path.vi" Type="VI" URL="../json To Pretty String - string path.vi">
+			<Item Name="json To Pretty String - string path.vi" Type="VI" URL="../json to string/json To Pretty String - string path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;1!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````],;H.P&lt;C"T&gt;(*J&lt;G=!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -565,7 +961,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
 			</Item>
 		</Item>
-		<Item Name="json To Pretty String.vi" Type="VI" URL="../json To Pretty String.vi">
+		<Item Name="json To Pretty String.vi" Type="VI" URL="../json to string/json To Pretty String.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[C.4K!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -577,7 +973,7 @@
 	</Item>
 	<Item Name="json To String" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
-			<Item Name="json To Minimized String - array path.vi" Type="VI" URL="../json To Minimized String - array path.vi">
+			<Item Name="json To Minimized String - array path.vi" Type="VI" URL="../json to string/json To Minimized String - array path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````],;H.P&lt;C"T&gt;(*J&lt;G=!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%='&amp;U;!!!%E"!!!(`````!!A%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!E!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!))!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -586,7 +982,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
-			<Item Name="json To Minimized String - string path.vi" Type="VI" URL="../json To Minimized String - string path.vi">
+			<Item Name="json To Minimized String - string path.vi" Type="VI" URL="../json to string/json To Minimized String - string path.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;1!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````],;H.P&lt;C"T&gt;(*J&lt;G=!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%='&amp;U;!!!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!""+5U^/)%2P9X6N:7ZU)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -596,7 +992,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074536980</Property>
 			</Item>
 		</Item>
-		<Item Name="json To String.vi" Type="VI" URL="../json To String.vi">
+		<Item Name="json To String.vi" Type="VI" URL="../json to string/json To String.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0*[B+(C!!%!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

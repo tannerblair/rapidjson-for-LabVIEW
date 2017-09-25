@@ -46,7 +46,7 @@ DLLEXPORT void  jsonParseI64(Document * d, char * path, int64_t & value, bool & 
 DLLEXPORT void  jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Document * error);
 DLLEXPORT void  jsonParseDbl(Document * d, char * path, double & value, bool & found, Document * error);
 DLLEXPORT void  jsonParseFloat(Document * d, char * path, float & value, bool & found, Document * error);
-DLLEXPORT void jsonParseString(Document * d, char * path, char * value, bool & found, Document * error);
+DLLEXPORT char * jsonParseString(Document * d, char * path, char * value, bool & found, Document * error);
 
 //Produces a JSON string from a JSON Reference
 DLLEXPORT char * jsonToString(Document * d, char * path, bool prettyPrint, Document * error);
@@ -76,4 +76,3 @@ DLLEXPORT void jsonFormatPtrError(Pointer ptr, Document * error);
 DLLEXPORT void jsonFormatPtrError(int code, Document * error);
 
 DLLEXPORT void jsonFormatParseError(ParseResult p, Document * error);
-

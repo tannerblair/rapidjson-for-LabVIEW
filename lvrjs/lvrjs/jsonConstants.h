@@ -42,7 +42,8 @@ const char * kPointerParseErrorStrings[]{
    "Path does not exist",
    "Path does not reference an object",
    "Path does not reference an array",
-   "Path does not reference an object or array"
+   "Path does not reference an object or array",
+   "Type requested does not match type at path",
 };
 
 enum kPointerParseErrorType {
@@ -54,5 +55,6 @@ enum kPointerParseErrorType {
    NOT_A_PATH,
    NOT_AN_OBJECT,
    NOT_AN_ARRAY,
-   NOT_A_STRUCTURE
+   NOT_A_STRUCTURE,
+   BAD_TYPE
 };

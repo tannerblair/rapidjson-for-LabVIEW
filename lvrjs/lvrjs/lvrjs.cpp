@@ -20,24 +20,25 @@ int jsonQuery(Document * d, char * path, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      Value * v = Pointer(path).Get(*d);
-      if (v != nullptr) {
+      if (p.Get(*d) != nullptr)
+      {
+         Value * v = Pointer(path).Get(*d);
          return v->GetType();
       }
       else {
          return -1;
       }
-   } 
+   }
    else {
       jsonFormatPtrError(p, error);
       return -1;
    }
-
 }
 void jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
+      //Good path
       replaced = p.Get(*d) != nullptr;
       p.Set(*d, value);
    }
@@ -140,8 +141,22 @@ void jsonParseBool(Document * d, char * path, bool & value, bool & found, Docume
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetBool();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsBool()) {
+            value = p.GetWithDefault(*d, value).GetBool();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -151,8 +166,22 @@ void jsonParseI32(Document * d, char * path, int32_t & value, bool & found, Docu
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetInt();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsInt()) {
+            value = p.GetWithDefault(*d, value).GetInt();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -162,8 +191,22 @@ void jsonParseU32(Document * d, char * path, uint32_t & value, bool & found, Doc
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetUint();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsUint()) {
+            value = p.GetWithDefault(*d, value).GetUint();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -173,8 +216,22 @@ void jsonParseI64(Document * d, char * path, int64_t & value, bool & found, Docu
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetInt64();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsInt64()) {
+            value = p.GetWithDefault(*d, value).GetInt64();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -184,8 +241,22 @@ void jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Doc
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetUint64();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsUint64()) {
+            value = p.GetWithDefault(*d, value).GetUint64();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -195,8 +266,22 @@ void jsonParseDbl(Document * d, char * path, double & value, bool & found, Docum
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetDouble();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsDouble()) {
+            value = p.GetWithDefault(*d, value).GetDouble();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -206,19 +291,48 @@ void jsonParseFloat(Document * d, char * path, float & value, bool & found, Docu
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = p.GetWithDefault(*d, value).GetFloat();
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsFloat()) {
+            value = p.GetWithDefault(*d, value).GetFloat();
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return void();
+         }
+      }
+      else {
+         found = false;
+         return void();
+      }
    }
    else {
       jsonFormatPtrError(p, error);
    }
 }
-void jsonParseString(Document * d, char * path, char * value, bool & found, Document * error)
+char * jsonParseString(Document * d, char * path, char * value, bool & found, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
-      found = p.Get(*d) != nullptr;
-      value = _strdup(p.GetWithDefault(*d, value).GetString());
+      if (p.Get(*d) != nullptr)
+      {
+         //exists, check that type is boolean
+         found = true;
+         if (p.Get(*d)->IsString()) {
+            value = _strdup(p.GetWithDefault(*d, value).GetString());
+            return value;
+         }
+         else {
+            jsonFormatPtrError(BAD_TYPE, error);
+            return "";
+         }
+      }
+      else {
+         found = false;
+         return "";
+      }
    }
    else {
       jsonFormatPtrError(p, error);
@@ -348,12 +462,13 @@ void jsonSetErrorInfo(Document * error, bool status, int32_t code, const char * 
 void jsonFormatPtrError(Pointer ptr, Document * error)
 {
    string err;
-
+   char buffer[21];
+   _itoa_s(ptr.GetParseErrorOffset(), buffer, 10);
    err += "Invalid Path Error\n";
    err += kPointerParseErrorStrings[ptr.GetParseErrorCode()];
    err += "\n";
    err += "Offset: ";
-   err += ptr.GetParseErrorOffset();
+   err += buffer;
 
    jsonSetErrorInfo(error, true, 1000 + ptr.GetParseErrorCode(), err.c_str());
 }
@@ -370,12 +485,12 @@ void jsonFormatPtrError(int code, Document * error)
 void jsonFormatParseError(ParseResult p, Document * error) {
   
    string err;
-
+   char buffer[21];
+   _itoa_s(p.Offset(), buffer, 10);
    err += "Parse Error\n";
    err += kParseErrorStrings[p.Code()];
    err += "\n";
    err += "Offset: ";
-   err += p.Offset();
-
+   err += buffer;
    jsonSetErrorInfo(error, true, p.Code(), err.c_str());
 }

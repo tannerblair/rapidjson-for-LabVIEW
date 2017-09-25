@@ -58,7 +58,6 @@ DLLEXPORT char * jsonToString(Document * d, char * path, bool prettyPrint, Docum
 DLLEXPORT char * jsonKey(Document * d, char * path, int index, Document * error);
  
 DLLEXPORT Value * jsonStructureInfo(Document *d, char * path, int & count, Document * error);
-
 //Creates a new copy of a given reference.If no path is provided the entire reference is 
 //copied.If a path is provided the copy contains the JSON at that path only.
 DLLEXPORT Document * jsonClone(Document * d, char * path, Document * error);
@@ -76,3 +75,4 @@ DLLEXPORT void jsonFormatPtrError(Pointer ptr, Document * error);
 DLLEXPORT void jsonFormatPtrError(int code, Document * error);
 
 DLLEXPORT void jsonFormatParseError(ParseResult p, Document * error);
+

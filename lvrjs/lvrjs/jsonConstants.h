@@ -58,3 +58,12 @@ enum kPointerParseErrorType {
    NOT_A_STRUCTURE,
    BAD_TYPE
 };
+
+enum kNumberType {
+   I32,
+   I64,
+   U32,
+   U64,
+   DBL,
+   FLT
+};

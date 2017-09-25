@@ -414,7 +414,6 @@ DLLEXPORT Value * jsonStructureInfo(Document *d, char * path, int & count, Docum
    count = -1;
    return nullptr;
 }
-
 Document * jsonClone(Document * d, char * path, Document * error)
 {
    Pointer p = Pointer(path);

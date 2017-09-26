@@ -124,7 +124,7 @@ void jsonInsertString(Document * d, char * path, char * value, bool & replaced, 
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error)
+void jsonInsertValue(Document * d, char * path, Document * value, bool & replaced, Document * error)
 {
 
    Pointer p = Pointer(path);

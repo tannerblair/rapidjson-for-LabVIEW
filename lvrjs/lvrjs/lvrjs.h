@@ -27,7 +27,7 @@ DLLEXPORT void jsonInsertUint64(Document * d, char * path, uint64_t value, bool 
 DLLEXPORT void jsonInsertDouble (Document * d, char * path, double value, bool & replaced, Document * error);
 DLLEXPORT void jsonInsertFloat(Document * d, char * path, float value, bool & replaced, Document * error);
 DLLEXPORT void jsonInsertString(Document * d, char * path, char * value, bool & replaced, Document * error);
-DLLEXPORT void jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertValue(Document * d, char * path, Document * value, bool & replaced, Document * error);
 
 DLLEXPORT bool jsonParseBool(Document * d, char * path, bool & value, Document * error);
 DLLEXPORT bool jsonParseInt(Document * d, char * path, int32_t & value, Document * error);

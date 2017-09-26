@@ -34,6 +34,7 @@ int jsonQuery(Document * d, char * path, Document * error)
       return -1;
    }
 }
+
 void jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
@@ -46,7 +47,7 @@ void jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Docu
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertI32(Document * d, char * path, int32_t value, bool & replaced, Document * error)
+void jsonInsertInt(Document * d, char * path, int32_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -57,7 +58,7 @@ void jsonInsertI32(Document * d, char * path, int32_t value, bool & replaced, Do
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertU32(Document * d, char * path, uint32_t value, bool & replaced, Document * error)
+void jsonInsertUint(Document * d, char * path, uint32_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -68,7 +69,7 @@ void jsonInsertU32(Document * d, char * path, uint32_t value, bool & replaced, D
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertI64(Document * d, char * path, int64_t value, bool & replaced, Document * error)
+void jsonInsertInt64(Document * d, char * path, int64_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -79,7 +80,7 @@ void jsonInsertI64(Document * d, char * path, int64_t value, bool & replaced, Do
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertU64(Document * d, char * path, uint64_t value, bool & replaced, Document * error)
+void jsonInsertUint64(Document * d, char * path, uint64_t value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -90,7 +91,7 @@ void jsonInsertU64(Document * d, char * path, uint64_t value, bool & replaced, D
       jsonFormatPtrError(p, error);
    }
 }
-void jsonInsertDbl(Document * d, char * path, double value, bool & replaced, Document * error)
+void jsonInsertDouble(Document * d, char * path, double value, bool & replaced, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -151,8 +152,7 @@ bool jsonParseBool(Document * d, char * path, bool & value, Document * error)
    }
    return false;
 }
-
-bool jsonParseI32(Document * d, char * path, int32_t & value, Document * error)
+bool jsonParseInt(Document * d, char * path, int32_t & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
@@ -166,157 +166,93 @@ bool jsonParseI32(Document * d, char * path, int32_t & value, Document * error)
    }
    return false;
 }
-void jsonParseU32(Document * d, char * path, uint32_t & value, bool & found, Document * error)
+bool jsonParseUint(Document * d, char * path, uint32_t & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsUint()) {
-            value = p.GetWithDefault(*d, value).GetUint();
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return void();
-         }
-      }
-      else {
-         found = false;
-         return void();
+         return jsonConvert(p.Get(*d), value);
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
-void jsonParseI64(Document * d, char * path, int64_t & value, bool & found, Document * error)
+bool jsonParseInt64(Document * d, char * path, int64_t & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsInt64()) {
-            value = p.GetWithDefault(*d, value).GetInt64();
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return void();
-         }
-      }
-      else {
-         found = false;
-         return void();
+         return jsonConvert(p.Get(*d), value);
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
-void jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Document * error)
+bool jsonParseUint64(Document * d, char * path, uint64_t & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsUint64()) {
-            value = p.GetWithDefault(*d, value).GetUint64();
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return void();
-         }
-      }
-      else {
-         found = false;
-         return void();
+         return jsonConvert(p.Get(*d), value);
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
-void jsonParseDbl(Document * d, char * path, double & value, bool & found, Document * error)
+bool jsonParseDouble(Document * d, char * path, double & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsDouble()) {
-            value = p.GetWithDefault(*d, value).GetDouble();
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return void();
-         }
-      }
-      else {
-         found = false;
-         return void();
+         return jsonConvert(p.Get(*d), value);
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
-void jsonParseFloat(Document * d, char * path, float & value, bool & found, Document * error)
+bool jsonParseFloat(Document * d, char * path, float & value, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsFloat()) {
-            value = p.GetWithDefault(*d, value).GetFloat();
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return void();
-         }
-      }
-      else {
-         found = false;
-         return void();
+         return jsonConvert(p.Get(*d), value);
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
-char * jsonParseString(Document * d, char * path, char * value, bool & found, Document * error)
+char * jsonParseString(Document * d, char * path, bool & success, Document * error)
 {
    Pointer p = Pointer(path);
    if (p.IsValid()) {
       if (p.Get(*d) != nullptr)
       {
-         //exists, check that type is boolean
-         found = true;
-         if (p.Get(*d)->IsString()) {
-            value = _strdup(p.GetWithDefault(*d, value).GetString());
-            return value;
-         }
-         else {
-            jsonFormatPtrError(BAD_TYPE, error);
-            return "";
-         }
-      }
-      else {
-         found = false;
-         return "";
+         StringBuffer temp;
+         success = jsonConvert(p.Get(*d), temp);
+         return _strdup(temp.GetString());
       }
    }
    else {
       jsonFormatPtrError(p, error);
    }
+   return false;
 }
+
 char * jsonToString(Document * d, char * path, bool prettyPrint, Document * error)
 {
    if (jsonQuery(d, path, error))
@@ -477,51 +413,143 @@ void jsonFormatParseError(ParseResult p, Document * error) {
 //------------------CONVERTERS-----------------//
 //Returns true if conversion was successful, false, if failed.
 //Defaulting will be handled in LabVIEW.
-bool jsonConvert(Value * v, bool & myBool) {
-
+bool jsonConvert(Value * v, bool & value) {
    if (v->IsBool()) {
-      myBool = v->GetBool();
+      value = v->GetBool();
       return true;
    }
    //Check if value is a string
    else if (v->IsString()) {
       if (strcmp(v->GetString(), "true") == 0) {
-         myBool = true;
+         value = true;
          return true;
       }
       else if (strcmp(v->GetString(), "false") == 0) {
-         myBool = false;
+         value = false;
          return true;
       }
       else {
-         myBool = false;
+         value = false;
          return false;
       }
    }
    else if (v->IsNumber()) {
-      myBool = (v->GetDouble() != 0);
+      value = (v->GetDouble() != 0);
       return true;
    }
    else {
       return false;
    }
 }
-
-bool jsonConvert(Value * v, int32_t & myInt) {
-
+bool jsonConvert(Value * v, int32_t & value) 
+{
    if (v->IsInt()) {
-      myInt = v->GetInt();
+      value = v->GetInt();
       return true;
    }
    //Check if value is a string
    else if (v->IsString()) {
-      return (sscanf_s(v->GetString(), "%ld", myInt) == 1);
+      return (sscanf_s(v->GetString(), "%d", & value) == 1);
    }
-   else if (v->IsNumber()) {
-      myInt = (v->GetInt() != 0);
+   else if (v->IsBool()) {
+      value = v->GetBool();
       return true;
    }
    else {
       return false;
+   }
+}
+bool jsonConvert(Value * v, int64_t & value) {
+   if (v->IsInt64()) {
+      value = v->GetInt64();
+      return true;
+   }
+   //Check if value is a string
+   else if (v->IsString()) {
+      return (sscanf_s(v->GetString(), "%lld", & value) == 1);
+   }
+   else if (v->IsBool()) {
+      value = v->GetBool();
+      return true;
+   }
+   else {
+      return false;
+   }
+}
+bool jsonConvert(Value * v, uint32_t & value) {
+   if (v->IsUint()) {
+      value = v->GetUint();
+      return true;
+   }
+   //Check if value is a string
+   else if (v->IsString()) {
+      return (sscanf_s(v->GetString(), "%u", & value) == 1);
+   }
+   else if (v->IsBool()) {
+      value = v->GetBool();
+      return true;
+   }
+   else {
+      return false;
+   }
+}
+bool jsonConvert(Value * v, uint64_t & value) {
+   if (v->IsUint64()) {
+      value = v->GetUint64();
+      return true;
+   }
+   //Check if value is a string
+   else if (v->IsString()) {
+      return (sscanf_s(v->GetString(), "%llu", & value) == 1);
+   }
+   else if (v->IsBool()) {
+      value = v->GetBool();
+      return true;
+   }
+   else {
+      return false;
+   }
+}
+bool jsonConvert(Value * v, float & value) {
+   if (v->IsFloat()) {
+      value = v->GetFloat();
+      return true;
+   }
+   //Check if value is a string
+   else if (v->IsString()) {
+      return (sscanf_s(v->GetString(), "%f", & value) == 1);
+   }
+   else if (v->IsBool()) {
+      value = v->GetBool();
+      return true;
+   }
+   else {
+      return false;
+   }
+}
+bool jsonConvert(Value * v, double & value) {
+   if (v->IsDouble()) {
+      value = v->GetDouble();
+      return true;
+   }
+   //Check if value is a string
+   else if (v->IsString()) {
+      return (sscanf_s(v->GetString(), "%lf", & value) == 1);
+   }
+   else if (v->IsBool()) {
+      value = v->GetBool();
+      return true;
+   }
+   else {
+      return false;
+   }
+}
+bool jsonConvert(Value * v, StringBuffer & value) {
+   if (v->IsArray() || v->IsObject() || v->IsNull()) {
+      return false;
+   }
+   for (int i = 0; i < v->GetStringLength(); i++)
+   {
+      value.Put(v->GetString()[i]);
    }
 }

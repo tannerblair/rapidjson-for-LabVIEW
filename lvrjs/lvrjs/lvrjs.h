@@ -19,24 +19,24 @@ DLLEXPORT int jsonQuery(Document * d, char * path, Document * error);
 //is ignored when a path is specified.Instead the last property name in path is 
 //used as the key for the inserted property.Children of the parent controls wired to 
 //anything will utilize their control label for their property names.
-DLLEXPORT void  jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertI32(Document * d, char * path, int32_t value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertU32(Document * d, char * path, uint32_t value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertI64(Document * d, char * path, int64_t value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertU64(Document * d, char * path, uint64_t value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertDbl(Document * d, char * path, double value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertFloat(Document * d, char * path, float value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertString(Document * d, char * path, char * value, bool & replaced, Document * error);
-DLLEXPORT void  jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertBool(Document * d, char * path, bool value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertInt(Document * d, char * path, int32_t value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertUint(Document * d, char * path, uint32_t value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertInt64(Document * d, char * path, int64_t value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertUint64(Document * d, char * path, uint64_t value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertDouble (Document * d, char * path, double value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertFloat(Document * d, char * path, float value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertString(Document * d, char * path, char * value, bool & replaced, Document * error);
+DLLEXPORT void jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error);
 
-DLLEXPORT bool  jsonParseBool(Document * d, char * path, bool & value, Document * error);
-DLLEXPORT bool  jsonParseI32(Document * d, char * path, int32_t & value, Document * error);
-DLLEXPORT void  jsonParseU32(Document * d, char * path, uint32_t & value, bool & found, Document * error);
-DLLEXPORT void  jsonParseI64(Document * d, char * path, int64_t & value, bool & found, Document * error);
-DLLEXPORT void  jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Document * error);
-DLLEXPORT void  jsonParseDbl(Document * d, char * path, double & value, bool & found, Document * error);
-DLLEXPORT void  jsonParseFloat(Document * d, char * path, float & value, bool & found, Document * error);
-DLLEXPORT char * jsonParseString(Document * d, char * path, char * value, bool & found, Document * error);
+DLLEXPORT bool jsonParseBool(Document * d, char * path, bool & value, Document * error);
+DLLEXPORT bool jsonParseInt(Document * d, char * path, int32_t & value, Document * error);
+DLLEXPORT bool jsonParseUint(Document * d, char * path, uint32_t & value, Document * error);
+DLLEXPORT bool jsonParseInt64(Document * d, char * path, int64_t & value, Document * error);
+DLLEXPORT bool jsonParseUint64(Document * d, char * path, uint64_t & value, Document * error);
+DLLEXPORT bool jsonParseDouble(Document * d, char * path, double & value, Document * error);
+DLLEXPORT bool jsonParseFloat(Document * d, char * path, float & value, Document * error);
+DLLEXPORT char * jsonParseString(Document * d, char * path, bool & success, Document * error);
 
 //Produces a JSON string from a JSON Reference
 DLLEXPORT char * jsonToString(Document * d, char * path, bool prettyPrint, Document * error);
@@ -66,7 +66,12 @@ DLLEXPORT void jsonFormatPtrError(int code, Document * error);
 
 DLLEXPORT void jsonFormatParseError(ParseResult p, Document * error);
 
-DLLEXPORT bool jsonConvert(Value * v, bool & myValue);
-DLLEXPORT bool jsonConvert(Value * v, int32_t & myValue);
-
+DLLEXPORT bool jsonConvert(Value * v, bool & value);
+DLLEXPORT bool jsonConvert(Value * v, int32_t & value);
+DLLEXPORT bool jsonConvert(Value * v, uint32_t & value);
+DLLEXPORT bool jsonConvert(Value * v, int64_t & value);
+DLLEXPORT bool jsonConvert(Value * v, uint64_t & value);
+DLLEXPORT bool jsonConvert(Value * v, float & value);
+DLLEXPORT bool jsonConvert(Value * v, double & value);
+DLLEXPORT bool jsonConvert(Value * v, StringBuffer & value);
 

@@ -150,7 +150,9 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="jsonErrors.h" />
     <ClInclude Include="jsonConstants.h" />
+    <ClInclude Include="jsonIncludes.h" />
     <ClInclude Include="lvrjs.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>

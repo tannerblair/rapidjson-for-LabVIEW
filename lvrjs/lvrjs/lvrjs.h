@@ -1,15 +1,5 @@
 #pragma once
-#define DLLEXPORT __declspec(dllexport)
-#define RAPIDJSON_HAS_STDSTRING 1
-#include "jsonConstants.h"
-#include "rapidjson\document.h"
-#include "rapidjson\stringbuffer.h"
-#include "rapidjson\writer.h"
-#include "rapidjson\prettywriter.h"
-#include "rapidjson\pointer.h"
-
-using namespace rapidjson;
-using namespace std;
+#include "jsonIncludes.h"
 
 const enum kErrorType : uint32_t { noError, parse, invalidPath };
 
@@ -39,8 +29,8 @@ DLLEXPORT void  jsonInsertFloat(Document * d, char * path, float value, bool & r
 DLLEXPORT void  jsonInsertString(Document * d, char * path, char * value, bool & replaced, Document * error);
 DLLEXPORT void  jsonInsertValue(Document * d, char * path, Value * value, bool & replaced, Document * error);
 
-DLLEXPORT void  jsonParseBool(Document * d, char * path, bool & value, bool & found, Document * error);
-DLLEXPORT void  jsonParseI32(Document * d, char * path, int32_t & value, bool & found, Document * error);
+DLLEXPORT bool  jsonParseBool(Document * d, char * path, bool & value, Document * error);
+DLLEXPORT bool  jsonParseI32(Document * d, char * path, int32_t & value, Document * error);
 DLLEXPORT void  jsonParseU32(Document * d, char * path, uint32_t & value, bool & found, Document * error);
 DLLEXPORT void  jsonParseI64(Document * d, char * path, int64_t & value, bool & found, Document * error);
 DLLEXPORT void  jsonParseU64(Document * d, char * path, uint64_t & value, bool & found, Document * error);
@@ -75,4 +65,8 @@ DLLEXPORT void jsonFormatPtrError(Pointer ptr, Document * error);
 DLLEXPORT void jsonFormatPtrError(int code, Document * error);
 
 DLLEXPORT void jsonFormatParseError(ParseResult p, Document * error);
+
+DLLEXPORT bool jsonConvert(Value * v, bool & myValue);
+DLLEXPORT bool jsonConvert(Value * v, int32_t & myValue);
+
 

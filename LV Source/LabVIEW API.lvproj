@@ -14,7 +14,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="test" Type="Folder">
-			<Item Name="Bool parse tests.vi" Type="VI" URL="../Bool parse tests.vi"/>
+			<Item Name="dynamic parse test.vi" Type="VI" URL="../dynamic parse test.vi"/>
 			<Item Name="insert and parse tests.vi" Type="VI" URL="../insert and parse tests.vi"/>
 			<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		</Item>

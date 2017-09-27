@@ -16,9 +16,12 @@
 		<Item Name="test" Type="Folder">
 			<Item Name="dynamic parse test.vi" Type="VI" URL="../dynamic parse test.vi"/>
 			<Item Name="insert and parse tests.vi" Type="VI" URL="../insert and parse tests.vi"/>
+			<Item Name="large.json" Type="Document" URL="../test files/large.json"/>
+			<Item Name="read large file.vi" Type="VI" URL="../read large file.vi"/>
 			<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		</Item>
 		<Item Name="JSON Document.lvclass" Type="LVClass" URL="../API/JSON Document Class/JSON Document.lvclass"/>
+		<Item Name="lvrjs32.dll" Type="Document" URL="../rapidjson wrapper/lvrjs32.dll"/>
 		<Item Name="rapidjson wrapper.lvlib" Type="Library" URL="../rapidjson wrapper/rapidjson wrapper.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

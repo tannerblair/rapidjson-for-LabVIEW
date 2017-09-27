@@ -28,22 +28,22 @@
 	<Item Name="json Clone" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
 			<Item Name="json Clone - array path.vi" Type="VI" URL="../json clone/json Clone - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!("("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;/!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!"*!1!!"`````Q!("("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!##!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 			<Item Name="json Clone - string path.vi" Type="VI" URL="../json clone/json Clone - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!(!!A$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!-E"Q!"Y!!"=63F.04C"%&lt;W.V&lt;76O&gt;#ZM&gt;G.M98.T!"&amp;+5U^/)%2P9X6N:7ZU)'^V&gt;!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"!!&amp;!!5!"1!&amp;!!9!"1!(!!A$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1074536976</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 		</Item>
 		<Item Name="json Clone.vi" Type="VI" URL="../json clone/json Clone.vi">
@@ -81,16 +81,16 @@
 	<Item Name="json Delete" Type="Folder">
 		<Item Name="poly instances" Type="Folder">
 			<Item Name="json Delete - array path.vi" Type="VI" URL="../json delete/json Delete - array path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082401300</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 			<Item Name="json Delete - string path.vi" Type="VI" URL="../json delete/json Delete - string path.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;)!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;)!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"G:P&gt;7ZE0Q!!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!"1!)!!E$!!"Y!!!.#!!!#1!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>

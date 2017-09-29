@@ -5,11 +5,20 @@
 #include "lvrjs.h"
 
 
-Document * jsonCreate(char * json, Document * error) 
+Document * jsonCreate(char * json, Document * error, bool allowComments, bool enableExtensions)
 {
    string buffer = json;
    Document * d = new Document();
-   ParseResult ok = d->Parse(buffer);
+   ParseResult ok;
+   if (!allowComments && enableExtensions)
+      ok = d->Parse<kParseNanAndInfFlag>(buffer);
+   else if (allowComments && !enableExtensions)
+      ok = d->Parse<kParseCommentsFlag>(buffer);
+   else if (allowComments && enableExtensions)
+      ok = d->Parse<kParseNanAndInfFlag | kParseCommentsFlag>(buffer);
+   else 
+      ok = d->Parse(buffer);
+
    if (!ok)
       jsonFormatParseError(ok, error);
 
@@ -261,7 +270,7 @@ char * jsonToString(Document * d, char * path, bool prettyPrint, Document * erro
       StringBuffer buffer;
       buffer.Clear();
       if (!prettyPrint) {
-         Writer<rapidjson::StringBuffer> writer(buffer);
+         Writer<rapidjson::StringBuffer, UTF8<char>, UTF8<char>, CrtAllocator, kWriteNanAndInfFlag> writer(buffer);
          v->Accept(writer);
       }
       else {
@@ -375,16 +384,9 @@ void jsonSetErrorInfo(Document * error, bool status, int32_t code, const char * 
 
 void jsonFormatPtrError(Pointer ptr, Document * error)
 {
-   string err;
-   char buffer[21];
-   _itoa_s(ptr.GetParseErrorOffset(), buffer, 10);
-   err += "Invalid Path Error\n";
-   err += kPointerParseErrorStrings[ptr.GetParseErrorCode()];
-   err += "\n";
-   err += "Offset: ";
-   err += buffer;
-
-   jsonSetErrorInfo(error, true, 1000 + ptr.GetParseErrorCode(), err.c_str());
+   char buffer[256];
+   sprintf_s(buffer, "JSON Path Error: %s (%u)", kPointerParseErrorStrings[ptr.GetParseErrorCode()], ptr.GetParseErrorOffset());
+      jsonSetErrorInfo(error, true, 1000 + ptr.GetParseErrorCode(), buffer);
 }
 
 void jsonFormatPtrError(int code, Document * error)
@@ -397,16 +399,10 @@ void jsonFormatPtrError(int code, Document * error)
 }
 
 void jsonFormatParseError(ParseResult p, Document * error) {
-  
-   string err;
-   char buffer[21];
-   _itoa_s(p.Offset(), buffer, 10);
-   err += "Parse Error\n";
-   err += kParseErrorStrings[p.Code()];
-   err += "\n";
-   err += "Offset: ";
-   err += buffer;
-   jsonSetErrorInfo(error, true, p.Code(), err.c_str());
+   char buffer[256];
+   sprintf_s(buffer, "JSON Parse Error: %s (%u)", kParseErrorStrings[p.Code()], p.Offset());
+
+   jsonSetErrorInfo(error, true, p.Code(), buffer);
 }
 
 
@@ -443,7 +439,7 @@ bool jsonConvert(Value * v, bool & value) {
 }
 bool jsonConvert(Value * v, int32_t & value) 
 {
-   if (v->IsInt()) {
+   if (v->IsNumber()) {
       value = v->GetInt();
       return true;
    }
@@ -460,7 +456,7 @@ bool jsonConvert(Value * v, int32_t & value)
    }
 }
 bool jsonConvert(Value * v, int64_t & value) {
-   if (v->IsInt64()) {
+   if (v->IsNumber()) {
       value = v->GetInt64();
       return true;
    }
@@ -477,7 +473,7 @@ bool jsonConvert(Value * v, int64_t & value) {
    }
 }
 bool jsonConvert(Value * v, uint32_t & value) {
-   if (v->IsUint()) {
+   if (v->IsNumber()) {
       value = v->GetUint();
       return true;
    }
@@ -494,7 +490,7 @@ bool jsonConvert(Value * v, uint32_t & value) {
    }
 }
 bool jsonConvert(Value * v, uint64_t & value) {
-   if (v->IsUint64()) {
+   if (v->IsNumber()) {
       value = v->GetUint64();
       return true;
    }
@@ -511,7 +507,7 @@ bool jsonConvert(Value * v, uint64_t & value) {
    }
 }
 bool jsonConvert(Value * v, float & value) {
-   if (v->IsFloat()) {
+   if (v->IsNumber()) {
       value = v->GetFloat();
       return true;
    }
@@ -528,7 +524,7 @@ bool jsonConvert(Value * v, float & value) {
    }
 }
 bool jsonConvert(Value * v, double & value) {
-   if (v->IsDouble()) {
+   if (v->IsNumber()) {
       value = v->GetDouble();
       return true;
    }
@@ -545,11 +541,11 @@ bool jsonConvert(Value * v, double & value) {
    }
 }
 bool jsonConvert(Value * v, StringBuffer & value) {
-   if (v->IsArray() || v->IsObject() || v->IsNull()) {
+   if (v->IsArray() || v->IsObject()) {
       return false;
    }
-   for (int i = 0; i < v->GetStringLength(); i++)
-   {
-      value.Put(v->GetString()[i]);
-   }
+
+   Writer<StringBuffer, UTF8<char>, UTF8<char>, CrtAllocator,kWriteNanAndInfFlag> writer(value);
+   v->Accept(writer);
+   return true;
 }

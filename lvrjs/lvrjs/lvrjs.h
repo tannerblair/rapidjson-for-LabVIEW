@@ -6,7 +6,7 @@ const enum kErrorType : uint32_t { noError, parse, invalidPath };
 // This node creates a JSON reference.If a JSON string is supplied this 
 //JSON structure goes into the reference.If it's an empty string an empty 
 //JSON structure is created. 
-DLLEXPORT Document * jsonCreate(char * json, Document * error);
+DLLEXPORT Document * jsonCreate(char * json, Document * error, bool allowComments, bool enableExtensions);
 
 //This node allows for identifying if a JSON property or array element exists 
 //and the type of the value at that location. 

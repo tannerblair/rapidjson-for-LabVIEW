@@ -19,13 +19,19 @@
 		<Item Name="test" Type="Folder">
 			<Item Name="dynamic parse test.vi" Type="VI" URL="../dynamic parse test.vi"/>
 			<Item Name="insert and parse tests.vi" Type="VI" URL="../insert and parse tests.vi"/>
+			<Item Name="insert anything tests.vi" Type="VI" URL="../test files/insert anything tests.vi"/>
 			<Item Name="large.json" Type="Document" URL="../test files/large.json"/>
 			<Item Name="read large file.vi" Type="VI" URL="../read large file.vi"/>
 			<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		</Item>
 		<Item Name="JSON Document.lvclass" Type="LVClass" URL="../API/JSON Document Class/JSON Document.lvclass"/>
 		<Item Name="rapidjson wrapper.lvlib" Type="Library" URL="../rapidjson wrapper/rapidjson wrapper.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

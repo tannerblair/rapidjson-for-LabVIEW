@@ -111,13 +111,13 @@
 	</Item>
 	<Item Name="json From Variant" Type="Folder">
 		<Item Name="json From Variant.vi" Type="VI" URL="../json From Variant.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1&amp;-(6G&amp;S;7&amp;O&gt;!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!"!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!!!!!!!!"!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%\!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!23F.04C"%&lt;W.V&lt;76O&gt;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1&amp;-(6G&amp;S;7&amp;O&gt;!!/1$$`````"("B&gt;'A!!$*!=!!?!!!8&amp;5J44UYA2'^D&gt;7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!13F.04C"%&lt;W.V&lt;76O&gt;#"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!#!!!!")!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 		</Item>
 	</Item>
 	<Item Name="json Insert" Type="Folder">

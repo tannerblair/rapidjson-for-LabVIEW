@@ -25,7 +25,6 @@
 			<Item Name="scratch.vi" Type="VI" URL="../scratch.vi"/>
 		</Item>
 		<Item Name="JSON Document.lvclass" Type="LVClass" URL="../API/JSON Document Class/JSON Document.lvclass"/>
-		<Item Name="rapidjson wrapper.lvlib" Type="Library" URL="../rapidjson wrapper/rapidjson wrapper.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

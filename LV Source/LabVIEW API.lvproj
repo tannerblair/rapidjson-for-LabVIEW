@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
-	<Property Name="CCSymbols" Type="Str">DEVELOPMENT,true;</Property>
+<Project Type="Project" LVVersion="16008000">
+	<Property Name="CCSymbols" Type="Str">DEVELOPMENT,false;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -13,6 +13,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="basic usage.vi" Type="VI" URL="../examples/basic usage.vi"/>
+			<Item Name="manipulating json documents.vi" Type="VI" URL="../examples/manipulating json documents.vi"/>
+			<Item Name="pointer basics.vi" Type="VI" URL="../examples/pointer basics.vi"/>
+			<Item Name="Working With Arrays.vi" Type="VI" URL="../examples/Working With Arrays.vi"/>
+			<Item Name="working with objects.vi" Type="VI" URL="../examples/working with objects.vi"/>
+		</Item>
 		<Item Name="Move DLL" Type="Folder">
 			<Item Name="Move DLL to Resource.vi" Type="VI" URL="../Move DLL to Resource.vi"/>
 		</Item>
